@@ -11,6 +11,584 @@
             "in": {
                 "resourceMeta": {
                     "attributes": {
+                        "museCategory": "Muse Strings",
+                        "museName": "Violins 1",
+                        "museUID": "91",
+                        "playbackSetupData": "strings.violin.orchestral:primary:section"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "Muse Strings\\Violins 1\\91",
+                    "type": "muse_sampler_sound_pack",
+                    "vendor": "Muse Strings"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "violins",
+            "out": {
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 7.300000190734863
+            },
+            "partId": "20",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "museCategory": "Muse Choir",
+                        "museName": "Tenors",
+                        "museUID": "21",
+                        "playbackSetupData": "voices.choir.tenor"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "Muse Choir\\Tenors\\21",
+                    "type": "muse_sampler_sound_pack",
+                    "vendor": "Muse Choir"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "tenor",
+            "out": {
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 12
+            },
+            "partId": "18",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "horn",
+            "out": {
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": -5.300000190734863
+            },
+            "partId": "9",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "metronome",
+            "out": {
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 0
+            },
+            "partId": "999",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "contrabass",
+            "out": {
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 1.100000023841858
+            },
+            "partId": "25",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "museCategory": "Muse Choir",
+                        "museName": "Basses",
+                        "museUID": "22",
+                        "playbackSetupData": "voices.choir.bass"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "Muse Choir\\Basses\\22",
+                    "type": "muse_sampler_sound_pack",
+                    "vendor": "Muse Choir"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "bass",
+            "out": {
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 12
+            },
+            "partId": "19",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "museCategory": "Muse Strings",
+                        "museName": "Violas",
+                        "museUID": "93",
+                        "playbackSetupData": "strings.viola.orchestral:section"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "Muse Strings\\Violas\\93",
+                    "type": "muse_sampler_sound_pack",
+                    "vendor": "Muse Strings"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "violas",
+            "out": {
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 5
+            },
+            "partId": "23",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "bb-clarinet",
+            "out": {
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 0
+            },
+            "partId": "4",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "museCategory": "Muse Choir",
+                        "museName": "Altos",
+                        "museUID": "20",
+                        "playbackSetupData": "voices.choir.alto"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "Muse Choir\\Altos\\20",
+                    "type": "muse_sampler_sound_pack",
+                    "vendor": "Muse Choir"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "alto",
+            "out": {
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 12
+            },
+            "partId": "17",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "cymbal",
+            "out": {
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 12
+            },
+            "partId": "14",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "museCategory": "Muse Choir",
+                        "museName": "Sopranos",
+                        "museUID": "19",
+                        "playbackSetupData": "voices.choir.soprano"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "Muse Choir\\Sopranos\\19",
+                    "type": "muse_sampler_sound_pack",
+                    "vendor": "Muse Choir"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "soprano",
+            "out": {
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 0
+            },
+            "partId": "16",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "piano",
+            "out": {
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 0
+            },
+            "partId": "15",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "oboe",
+            "out": {
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 0
+            },
+            "partId": "3",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "museCategory": "Muse Strings",
+                        "museName": "Violoncellos",
+                        "museUID": "94",
+                        "playbackSetupData": "strings.violoncello.orchestral:section"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "Muse Strings\\Violoncellos\\94",
+                    "type": "muse_sampler_sound_pack",
+                    "vendor": "Muse Strings"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "violoncellos",
+            "out": {
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 0
+            },
+            "partId": "24",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "piccolo",
+            "out": {
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 0
+            },
+            "partId": "1",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "alto-saxophone",
+            "out": {
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": -8
+            },
+            "partId": "5",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "bb-trumpet",
+            "out": {
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": -3.299999952316284
+            },
+            "partId": "10",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "euphonium",
+            "out": {
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": -5.300000190734863
+            },
+            "partId": "8",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "museCategory": "Muse Strings",
+                        "museName": "Violins 2",
+                        "museUID": "92",
+                        "playbackSetupData": "strings.violin.orchestral:secondary:section"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "Muse Strings\\Violins 2\\92",
+                    "type": "muse_sampler_sound_pack",
+                    "vendor": "Muse Strings"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "violins",
+            "out": {
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 3.299999952316284
+            },
+            "partId": "21",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "bass-drum",
+            "out": {
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 0
+            },
+            "partId": "12",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "tenor-saxophone",
+            "out": {
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": -6.699999809265137
+            },
+            "partId": "6",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
                     },
                     "hasNativeEditorSupport": false,
                     "id": "MS Basic",
@@ -112,584 +690,6 @@
                 "volumeDb": 0
             },
             "partId": "2",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
-                    "type": "fluid_soundfont",
-                    "vendor": "Fluid"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "tenor-saxophone",
-            "out": {
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": -6.699999809265137
-            },
-            "partId": "6",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
-                    "type": "fluid_soundfont",
-                    "vendor": "Fluid"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "euphonium",
-            "out": {
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": -5.300000190734863
-            },
-            "partId": "8",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                        "museCategory": "Muse Strings",
-                        "museName": "Violins 2",
-                        "museUID": "92",
-                        "playbackSetupData": "strings.violin.orchestral:secondary:section"
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "Muse Strings\\Violins 2\\92",
-                    "type": "muse_sampler_sound_pack",
-                    "vendor": "Muse Strings"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "violins",
-            "out": {
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": 3.299999952316284
-            },
-            "partId": "21",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
-                    "type": "fluid_soundfont",
-                    "vendor": "Fluid"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "bass-drum",
-            "out": {
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": 0
-            },
-            "partId": "12",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
-                    "type": "fluid_soundfont",
-                    "vendor": "Fluid"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "piccolo",
-            "out": {
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": 0
-            },
-            "partId": "1",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                        "museCategory": "Muse Strings",
-                        "museName": "Violoncellos",
-                        "museUID": "94",
-                        "playbackSetupData": "strings.violoncello.orchestral:section"
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "Muse Strings\\Violoncellos\\94",
-                    "type": "muse_sampler_sound_pack",
-                    "vendor": "Muse Strings"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "violoncellos",
-            "out": {
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": 0
-            },
-            "partId": "24",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
-                    "type": "fluid_soundfont",
-                    "vendor": "Fluid"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "bb-trumpet",
-            "out": {
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": -3.299999952316284
-            },
-            "partId": "10",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
-                    "type": "fluid_soundfont",
-                    "vendor": "Fluid"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "alto-saxophone",
-            "out": {
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": -8
-            },
-            "partId": "5",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
-                    "type": "fluid_soundfont",
-                    "vendor": "Fluid"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "oboe",
-            "out": {
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": 0
-            },
-            "partId": "3",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
-                    "type": "fluid_soundfont",
-                    "vendor": "Fluid"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "piano",
-            "out": {
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": 0
-            },
-            "partId": "15",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                        "museCategory": "Muse Choir",
-                        "museName": "Sopranos",
-                        "museUID": "19",
-                        "playbackSetupData": "voices.choir.soprano"
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "Muse Choir\\Sopranos\\19",
-                    "type": "muse_sampler_sound_pack",
-                    "vendor": "Muse Choir"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "soprano",
-            "out": {
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": 0
-            },
-            "partId": "16",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
-                    "type": "fluid_soundfont",
-                    "vendor": "Fluid"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "cymbal",
-            "out": {
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": 12
-            },
-            "partId": "14",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                        "museCategory": "Muse Choir",
-                        "museName": "Altos",
-                        "museUID": "20",
-                        "playbackSetupData": "voices.choir.alto"
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "Muse Choir\\Altos\\20",
-                    "type": "muse_sampler_sound_pack",
-                    "vendor": "Muse Choir"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "alto",
-            "out": {
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": 12
-            },
-            "partId": "17",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
-                    "type": "fluid_soundfont",
-                    "vendor": "Fluid"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "bb-clarinet",
-            "out": {
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": 0
-            },
-            "partId": "4",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                        "museCategory": "Muse Strings",
-                        "museName": "Violas",
-                        "museUID": "93",
-                        "playbackSetupData": "strings.viola.orchestral:section"
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "Muse Strings\\Violas\\93",
-                    "type": "muse_sampler_sound_pack",
-                    "vendor": "Muse Strings"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "violas",
-            "out": {
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": 5
-            },
-            "partId": "23",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                        "museCategory": "Muse Choir",
-                        "museName": "Basses",
-                        "museUID": "22",
-                        "playbackSetupData": "voices.choir.bass"
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "Muse Choir\\Basses\\22",
-                    "type": "muse_sampler_sound_pack",
-                    "vendor": "Muse Choir"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "bass",
-            "out": {
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": 12
-            },
-            "partId": "19",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
-                    "type": "fluid_soundfont",
-                    "vendor": "Fluid"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "contrabass",
-            "out": {
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": 1.100000023841858
-            },
-            "partId": "25",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
-                    "type": "fluid_soundfont",
-                    "vendor": "Fluid"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "metronome",
-            "out": {
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": 0
-            },
-            "partId": "999",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
-                    "type": "fluid_soundfont",
-                    "vendor": "Fluid"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "horn",
-            "out": {
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": -5.300000190734863
-            },
-            "partId": "9",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                        "museCategory": "Muse Choir",
-                        "museName": "Tenors",
-                        "museUID": "21",
-                        "playbackSetupData": "voices.choir.tenor"
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "Muse Choir\\Tenors\\21",
-                    "type": "muse_sampler_sound_pack",
-                    "vendor": "Muse Choir"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "tenor",
-            "out": {
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": 12
-            },
-            "partId": "18",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                        "museCategory": "Muse Strings",
-                        "museName": "Violins 1",
-                        "museUID": "91",
-                        "playbackSetupData": "strings.violin.orchestral:primary:section"
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "Muse Strings\\Violins 1\\91",
-                    "type": "muse_sampler_sound_pack",
-                    "vendor": "Muse Strings"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "violins",
-            "out": {
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": 7.300000190734863
-            },
-            "partId": "20",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
