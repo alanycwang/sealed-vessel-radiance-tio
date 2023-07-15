@@ -946,22 +946,26 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>10</height>
+        <height>9.82428</height>
+        <boxAutoSize>0</boxAutoSize>
         <linkedMain/>
         <Text>
           <linkedMain/>
           <style>title</style>
-          <text>Untitled score</text>
+          <offset x="-0.184962" y="-7.76841"/>
+          <text>Sealed Vessel and Radiance</text>
           </Text>
         <Text>
           <linkedMain/>
           <style>subtitle</style>
-          <text>Subtitle</text>
+          <offset x="-0.554887" y="1.6767"/>
+          <text>from &quot;Hollow Knight&quot;</text>
           </Text>
         <Text>
           <linkedMain/>
           <style>composer</style>
-          <text>Composer / arranger</text>
+          <offset x="11.2827" y="3.69924"/>
+          <text>Christopher Larkin arr. Alan Wang and Matthew Gross</text>
           </Text>
         </VBox>
       <Measure>

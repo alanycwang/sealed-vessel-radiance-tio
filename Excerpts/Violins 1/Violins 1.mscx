@@ -82,7 +82,7 @@
               </location>
             </linked>
           <style>title</style>
-          <text>Untitled score</text>
+          <text>Sealed Vessel and Radiance</text>
           </Text>
         <Text>
           <linked>
@@ -91,7 +91,11 @@
               </location>
             </linked>
           <style>subtitle</style>
-          <text>Subtitle</text>
+          <text>from &quot;Hollow Knight&quot;</text>
+          </Text>
+        <Text>
+          <style>instrument_excerpt</style>
+          <text>Violins 1</text>
           </Text>
         <Text>
           <linked>
@@ -100,11 +104,7 @@
               </location>
             </linked>
           <style>composer</style>
-          <text>Composer / arranger</text>
-          </Text>
-        <Text>
-          <style>instrument_excerpt</style>
-          <text>Violins 1</text>
+          <text>Christopher Larkin arr. Alan Wang and Matthew Gross</text>
           </Text>
         </VBox>
       <Measure>
