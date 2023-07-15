@@ -1,12 +1,106 @@
 {
     "activeSoundProfile": "Muse Sounds",
+    "aux": [
+        {
+            "out": {
+                "balance": 0,
+                "fxChain": {
+                    "0": {
+                        "active": true,
+                        "chainOrder": 0,
+                        "resourceMeta": {
+                            "attributes": {
+                            },
+                            "hasNativeEditorSupport": true,
+                            "id": "Muse Reverb",
+                            "type": "muse_plugin",
+                            "vendor": "Muse"
+                        },
+                        "unitConfiguration": {
+                        }
+                    }
+                },
+                "volumeDb": 0
+            },
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "out": {
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 0
+            },
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        }
+    ],
     "master": {
         "balance": 0,
         "fxChain": {
+            "2": {
+                "active": true,
+                "chainOrder": 2,
+                "resourceMeta": {
+                    "attributes": {
+                        "categories": "Fx|Reverb",
+                        "playbackSetupData": "last.last.last"
+                    },
+                    "hasNativeEditorSupport": true,
+                    "id": "Reverb",
+                    "type": "vst_plugin",
+                    "vendor": "MuseFX"
+                },
+                "unitConfiguration": {
+                    "componentState": "VkMyIZkAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TXVzZUZYIFBsdWdpbj0iUmV2ZXJiIiBWZXJzaW9uPSIxLjAuMCI+PFBBUkFNIGlkPSJBbW91bnQiIHZhbHVlPSI2Ny4wIi8+PFBBUkFNIGlkPSJQcmVzZXQiIHZhbHVlPSI3LjAiLz48L011c2VGWD4AAAAAAAAAAABKVUNFUHJpdmF0ZURhdGEAAQFCeXBhc3MAAQEDAB0AAAAAAAAASlVDRVByaXZhdGVEYXRh",
+                    "controllerState": ""
+                }
+            }
         },
         "volumeDb": 0
     },
     "tracks": [
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "museCategory": "Muse Percussion",
+                        "museName": "Tubular Bells",
+                        "museUID": "159",
+                        "playbackSetupData": "percussions.chimes"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "Muse Percussion\\Tubular Bells\\159",
+                    "type": "muse_sampler_sound_pack",
+                    "vendor": "Muse Percussion"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "tubular-bells",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.20000000298023224
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 0
+            },
+            "partId": "28"
+        },
         {
             "in": {
                 "resourceMeta": {
@@ -26,68 +120,22 @@
             },
             "instrumentId": "violins",
             "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 7.300000190734863
+                "volumeDb": -0.699999988079071
             },
             "partId": "20",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                        "museCategory": "Muse Choir",
-                        "museName": "Tenors",
-                        "museUID": "21",
-                        "playbackSetupData": "voices.choir.tenor"
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "Muse Choir\\Tenors\\21",
-                    "type": "muse_sampler_sound_pack",
-                    "vendor": "Muse Choir"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "tenor",
-            "out": {
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": 12
-            },
-            "partId": "18",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
-                    "type": "fluid_soundfont",
-                    "vendor": "Fluid"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "horn",
-            "out": {
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": -5.300000190734863
-            },
-            "partId": "9",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
@@ -123,6 +171,122 @@
             "in": {
                 "resourceMeta": {
                     "attributes": {
+                        "museCategory": "Muse Choir",
+                        "museName": "Tenors",
+                        "museUID": "21",
+                        "playbackSetupData": "voices.choir.tenor"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "Muse Choir\\Tenors\\21",
+                    "type": "muse_sampler_sound_pack",
+                    "vendor": "Muse Choir"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "tenor",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 12
+            },
+            "partId": "18",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "horn",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": -5.300000190734863
+            },
+            "partId": "9",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "museCategory": "Muse Woodwinds",
+                        "museName": "English Horn",
+                        "museUID": "125",
+                        "playbackSetupData": "winds.oboe.english"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "Muse Woodwinds\\English Horn\\125",
+                    "type": "muse_sampler_sound_pack",
+                    "vendor": "Muse Woodwinds"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "english-horn",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.5
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 0
+            },
+            "partId": "27",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
                     },
                     "hasNativeEditorSupport": false,
                     "id": "MS Basic",
@@ -134,10 +298,20 @@
             },
             "instrumentId": "contrabass",
             "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 1.100000023841858
+                "volumeDb": -6
             },
             "partId": "25",
             "soloMuteState": {
@@ -164,6 +338,16 @@
             },
             "instrumentId": "bass",
             "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
                 "balance": 0,
                 "fxChain": {
                 },
@@ -194,10 +378,20 @@
             },
             "instrumentId": "violas",
             "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 5
+                "volumeDb": 2
             },
             "partId": "23",
             "soloMuteState": {
@@ -220,10 +414,20 @@
             },
             "instrumentId": "bb-clarinet",
             "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 0
+                "volumeDb": -4
             },
             "partId": "4",
             "soloMuteState": {
@@ -250,6 +454,16 @@
             },
             "instrumentId": "alto",
             "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
                 "balance": 0,
                 "fxChain": {
                 },
@@ -276,6 +490,16 @@
             },
             "instrumentId": "cymbal",
             "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
                 "balance": 0,
                 "fxChain": {
                 },
@@ -306,10 +530,20 @@
             },
             "instrumentId": "soprano",
             "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 0
+                "volumeDb": 12
             },
             "partId": "16",
             "soloMuteState": {
@@ -332,6 +566,16 @@
             },
             "instrumentId": "piano",
             "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
                 "balance": 0,
                 "fxChain": {
                 },
@@ -358,14 +602,60 @@
             },
             "instrumentId": "oboe",
             "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 0
+                "volumeDb": -4.699999809265137
             },
             "partId": "3",
             "soloMuteState": {
                 "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "piccolo",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": -4
+            },
+            "partId": "1",
+            "soloMuteState": {
+                "mute": false,
                 "solo": false
             }
         },
@@ -388,10 +678,20 @@
             },
             "instrumentId": "violoncellos",
             "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 0
+                "volumeDb": -4.699999809265137
             },
             "partId": "24",
             "soloMuteState": {
@@ -412,34 +712,18 @@
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "piccolo",
-            "out": {
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": 0
-            },
-            "partId": "1",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
-                    "type": "fluid_soundfont",
-                    "vendor": "Fluid"
-                },
-                "unitConfiguration": {
-                }
-            },
             "instrumentId": "alto-saxophone",
             "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
                 "balance": 0,
                 "fxChain": {
                 },
@@ -466,6 +750,16 @@
             },
             "instrumentId": "bb-trumpet",
             "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
                 "balance": 0,
                 "fxChain": {
                 },
@@ -492,6 +786,16 @@
             },
             "instrumentId": "euphonium",
             "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
                 "balance": 0,
                 "fxChain": {
                 },
@@ -522,10 +826,20 @@
             },
             "instrumentId": "violins",
             "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 3.299999952316284
+                "volumeDb": -2
             },
             "partId": "21",
             "soloMuteState": {
@@ -548,10 +862,20 @@
             },
             "instrumentId": "bass-drum",
             "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 0
+                "volumeDb": 5.300000190734863
             },
             "partId": "12",
             "soloMuteState": {
@@ -574,6 +898,16 @@
             },
             "instrumentId": "tenor-saxophone",
             "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
                 "balance": 0,
                 "fxChain": {
                 },
@@ -600,6 +934,16 @@
             },
             "instrumentId": "anvil",
             "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
                 "balance": 0,
                 "fxChain": {
                     "0": {
@@ -614,7 +958,7 @@
                             "vendor": "MuseFX"
                         },
                         "unitConfiguration": {
-                            "componentState": "VkMyIcQBAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TXVzZUZYIFBsdWdpbj0iUHJvIEVRIiBWZXJzaW9uPSIxLjAuMCI+PFBBUkFNIGlkPSJGb2N1c0hpZ2giIHZhbHVlPSIwLjA1MDQxODMwMjQxNjgwMTQ1Ii8+PFBBUkFNIGlkPSJGb2N1c0xvdyIgdmFsdWU9IjE2LjAiLz48UEFSQU0gaWQ9IkZvY3VzTG93TWlkcyIgdmFsdWU9IjAuOTk5OTk5NzYxNTgxNDIwOSIvPjxQQVJBTSBpZD0iRm9jdXNNaWRzIiB2YWx1ZT0iMC45OTk5OTk3NjE1ODE0MjA5Ii8+PFBBUkFNIGlkPSJHYWluSGlnaCIgdmFsdWU9Ii0xNS4wIi8+PFBBUkFNIGlkPSJHYWluTG93IiB2YWx1ZT0iMTUuMCIvPjxQQVJBTSBpZD0iR2Fpbkxvd01pZHMiIHZhbHVlPSIxNS4wIi8+PFBBUkFNIGlkPSJHYWluTWlkcyIgdmFsdWU9IjEuMCIvPjxQQVJBTSBpZD0iUHJlc2V0IiB2YWx1ZT0iMTEuMCIvPjwvTXVzZUZYPgAAAAAAAAAAAEpVQ0VQcml2YXRlRGF0YQABAUJ5cGFzcwABAQMAHQAAAAAAAABKVUNFUHJpdmF0ZURhdGE=",
+                            "componentState": "VkMyIcwBAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8TXVzZUZYIFBsdWdpbj0iUHJvIEVRIiBWZXJzaW9uPSIxLjAuMCI+PFBBUkFNIGlkPSJGb2N1c0hpZ2giIHZhbHVlPSIyLjAwMDAwMDIzODQxODU3OSIvPjxQQVJBTSBpZD0iRm9jdXNMb3ciIHZhbHVlPSIyLjAwMDAwMDIzODQxODU3OSIvPjxQQVJBTSBpZD0iRm9jdXNMb3dNaWRzIiB2YWx1ZT0iMC45OTk5OTk3NjE1ODE0MjA5Ii8+PFBBUkFNIGlkPSJGb2N1c01pZHMiIHZhbHVlPSIwLjk5OTk5OTc2MTU4MTQyMDkiLz48UEFSQU0gaWQ9IkdhaW5IaWdoIiB2YWx1ZT0iMS4wIi8+PFBBUkFNIGlkPSJHYWluTG93IiB2YWx1ZT0iNC4wIi8+PFBBUkFNIGlkPSJHYWluTG93TWlkcyIgdmFsdWU9Ii02LjAiLz48UEFSQU0gaWQ9IkdhaW5NaWRzIiB2YWx1ZT0iMy4wIi8+PFBBUkFNIGlkPSJQcmVzZXQiIHZhbHVlPSIxMS4wIi8+PC9NdXNlRlg+AAAAAAAAAAAASlVDRVByaXZhdGVEYXRhAAEBQnlwYXNzAAEBAwAdAAAAAAAAAEpVQ0VQcml2YXRlRGF0YQ==",
                             "controllerState": ""
                         }
                     },
@@ -635,7 +979,7 @@
                         }
                     }
                 },
-                "volumeDb": 12
+                "volumeDb": -4.699999809265137
             },
             "partId": "26",
             "soloMuteState": {
@@ -658,6 +1002,16 @@
             },
             "instrumentId": "trombone",
             "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
                 "balance": 0,
                 "fxChain": {
                 },
@@ -684,10 +1038,20 @@
             },
             "instrumentId": "flute",
             "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 0
+                "volumeDb": -4
             },
             "partId": "2",
             "soloMuteState": {
