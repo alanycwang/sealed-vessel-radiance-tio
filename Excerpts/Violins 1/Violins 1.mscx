@@ -32,7 +32,7 @@
     <metaTag name="partName">Violins 1</metaTag>
     <Part id="20">
       <Staff id="1">
-        <linkedTo>22</linkedTo>
+        <linkedTo>25</linkedTo>
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -72,13 +72,13 @@
         <height>10</height>
         <linked>
           <location>
-            <staves>-21</staves>
+            <staves>-24</staves>
             </location>
           </linked>
         <Text>
           <linked>
             <location>
-              <staves>-21</staves>
+              <staves>-24</staves>
               </location>
             </linked>
           <style>title</style>
@@ -87,7 +87,7 @@
         <Text>
           <linked>
             <location>
-              <staves>-21</staves>
+              <staves>-24</staves>
               </location>
             </linked>
           <style>subtitle</style>
@@ -100,7 +100,7 @@
         <Text>
           <linked>
             <location>
-              <staves>-21</staves>
+              <staves>-24</staves>
               </location>
             </linked>
           <style>composer</style>
@@ -125,7 +125,7 @@
             <followText>1</followText>
             <linked>
               <location>
-                <staves>-21</staves>
+                <staves>-24</staves>
                 </location>
               <indexDiff>4</indexDiff>
               </linked>
@@ -134,7 +134,7 @@
           <SystemText>
             <linked>
               <location>
-                <staves>-21</staves>
+                <staves>-24</staves>
                 </location>
               <indexDiff>4</indexDiff>
               </linked>
@@ -183,7 +183,7 @@
             <followText>1</followText>
             <linked>
               <location>
-                <staves>-21</staves>
+                <staves>-24</staves>
                 </location>
               <indexDiff>4</indexDiff>
               </linked>
@@ -192,7 +192,7 @@
           <SystemText>
             <linked>
               <location>
-                <staves>-21</staves>
+                <staves>-24</staves>
                 </location>
               <indexDiff>4</indexDiff>
               </linked>
@@ -5978,7 +5978,7 @@
             <followText>1</followText>
             <linked>
               <location>
-                <staves>-21</staves>
+                <staves>-24</staves>
                 </location>
               </linked>
             <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 60</text>
@@ -6013,7 +6013,7 @@
             <followText>1</followText>
             <linked>
               <location>
-                <staves>-21</staves>
+                <staves>-24</staves>
                 </location>
               </linked>
             <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 60</text>
@@ -8162,10 +8162,10 @@
             <followText>1</followText>
             <linked>
               <location>
-                <staves>-21</staves>
+                <staves>-24</staves>
                 </location>
               </linked>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 120</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 120</text>
             </Tempo>
           <Dynamic>
             <subtype>sfz</subtype>
@@ -8190,7 +8190,7 @@
           <SystemText>
             <linked>
               <location>
-                <staves>-21</staves>
+                <staves>-24</staves>
                 </location>
               </linked>
             <text>Radiance</text>
@@ -8217,37 +8217,23 @@
             </Rest>
           </voice>
         </Measure>
+      <Measure len="8/4">
+        <multiMeasureRest>2</multiMeasureRest>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>8/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>96</velocity>
+          <Rest>
             <linked>
               </linked>
-            </Dynamic>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>0</subtype>
-              <linked>
-                </linked>
-              </HairPin>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
-          <Chord>
-            <linked>
-              </linked>
-            <durationType>whole</durationType>
-            <Note>
-              <linked>
-                </linked>
-              <pitch>82</pitch>
-              <tpc>12</tpc>
-              </Note>
-            </Chord>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -8258,13 +8244,6 @@
             <linked>
               </linked>
             </Dynamic>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Chord>
             <linked>
               </linked>
