@@ -1091,7 +1091,11 @@
                 },
                 "volumeDb": 0
             },
-            "partId": "29"
+            "partId": "29",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
         }
     ]
 }
