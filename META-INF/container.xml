@@ -3,17 +3,17 @@
   <rootfiles>
     <rootfile full-path="score_style.mss"/>
     <rootfile full-path="sealed-vessel-radiance-tio.mscx"/>
+    <rootfile full-path="Excerpts/Clarinet in B♭/Clarinet in B♭.mss"/>
+    <rootfile full-path="Excerpts/Clarinet in B♭/Clarinet in B♭.mscx"/>
     <rootfile full-path="Excerpts/Violas/Violas.mss"/>
     <rootfile full-path="Excerpts/Violas/Violas.mscx"/>
     <rootfile full-path="Excerpts/Violins 1/Violins 1.mss"/>
     <rootfile full-path="Excerpts/Violins 1/Violins 1.mscx"/>
-    <rootfile full-path="Excerpts/Clarinet in B♭/Clarinet in B♭.mss"/>
-    <rootfile full-path="Excerpts/Clarinet in B♭/Clarinet in B♭.mscx"/>
     <rootfile full-path="Thumbnails/thumbnail.png"/>
     <rootfile full-path="audiosettings.json"/>
     <rootfile full-path="viewsettings.json"/>
+    <rootfile full-path="Excerpts/Clarinet in B♭/viewsettings.json"/>
     <rootfile full-path="Excerpts/Violas/viewsettings.json"/>
     <rootfile full-path="Excerpts/Violins 1/viewsettings.json"/>
-    <rootfile full-path="Excerpts/Clarinet in B♭/viewsettings.json"/>
     </rootfiles>
   </container>

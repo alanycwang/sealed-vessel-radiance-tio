@@ -10102,6 +10102,12 @@
         </Measure>
       <Measure>
         <voice>
+          <TimeSig>
+            <linked>
+              </linked>
+            <sigN>3</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
@@ -10119,6 +10125,16 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Tempo>
+            <tempo>2.5</tempo>
+            <followText>1</followText>
+            <linked>
+              <location>
+                <staves>-24</staves>
+                </location>
+              </linked>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 150</text>
+            </Tempo>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -10127,11 +10143,6 @@
                 </location>
               </prev>
             </Spanner>
-          <Rest>
-            <linked>
-              </linked>
-            <durationType>quarter</durationType>
-            </Rest>
           <Rest>
             <linked>
               </linked>
@@ -10145,26 +10156,16 @@
             <linked>
               </linked>
             <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
-      <Measure len="84/4">
-        <multiMeasureRest>21</multiMeasureRest>
+      <Measure len="27/4">
+        <multiMeasureRest>9</multiMeasureRest>
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>84/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Rest>
-            <linked>
-              </linked>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <duration>87/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -10174,7 +10175,7 @@
             <linked>
               </linked>
             <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -10184,7 +10185,7 @@
             <linked>
               </linked>
             <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -10194,7 +10195,7 @@
             <linked>
               </linked>
             <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -10204,7 +10205,7 @@
             <linked>
               </linked>
             <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <duration>3/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -10214,7 +10215,69 @@
             <linked>
               </linked>
             <durationType>measure</durationType>
+            <duration>3/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>3/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>3/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
+            <duration>3/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <TimeSig>
+            <linked>
+              </linked>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
+          <Rest>
+            <linked>
+              </linked>
+            <durationType>measure</durationType>
             <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure len="60/4">
+        <multiMeasureRest>15</multiMeasureRest>
+        <voice>
+          <TimeSig>
+            <linked>
+              <indexDiff>-2</indexDiff>
+              </linked>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>60/4</duration>
             </Rest>
           </voice>
         </Measure>
