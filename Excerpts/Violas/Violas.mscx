@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="4.10">
-  <programVersion>4.1.1</programVersion>
-  <programRevision>e4d1ddf</programRevision>
+  <programVersion>4.1.0</programVersion>
+  <programRevision>2e3a93a</programRevision>
   <Score>
     <initialPartId>23</initialPartId>
     <Division>480</Division>
@@ -435,17 +435,28 @@
             <linked>
               </linked>
             </Dynamic>
+          <RehearsalMark>
+            <linked>
+              <location>
+                <staves>-26</staves>
+                </location>
+              </linked>
+            <text>A</text>
+            </RehearsalMark>
           <Chord>
             <linked>
+              <indexDiff>2</indexDiff>
               </linked>
             <durationType>16th</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
               <linked>
+                <indexDiff>2</indexDiff>
                 </linked>
               </Articulation>
             <Note>
               <linked>
+                <indexDiff>2</indexDiff>
                 </linked>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -2536,17 +2547,28 @@
             <linked>
               </linked>
             </Dynamic>
+          <RehearsalMark>
+            <linked>
+              <location>
+                <staves>-26</staves>
+                </location>
+              </linked>
+            <text>B</text>
+            </RehearsalMark>
           <Chord>
             <linked>
+              <indexDiff>1</indexDiff>
               </linked>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               </Articulation>
             <Note>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <pitch>64</pitch>
               <tpc>18</tpc>
@@ -2554,6 +2576,7 @@
             <Tremolo>
               <subtype>r8</subtype>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               </Tremolo>
             </Chord>
@@ -4992,12 +5015,22 @@
             <linked>
               </linked>
             </Dynamic>
+          <RehearsalMark>
+            <linked>
+              <location>
+                <staves>-26</staves>
+                </location>
+              </linked>
+            <text>C</text>
+            </RehearsalMark>
           <Chord>
             <linked>
+              <indexDiff>1</indexDiff>
               </linked>
             <durationType>half</durationType>
             <Note>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <pitch>67</pitch>
               <tpc>15</tpc>
@@ -5005,6 +5038,7 @@
             <Tremolo>
               <subtype>r16</subtype>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               </Tremolo>
             </Chord>
@@ -5467,6 +5501,14 @@
             <linked>
               </linked>
             </Dynamic>
+          <RehearsalMark>
+            <linked>
+              <location>
+                <staves>-26</staves>
+                </location>
+              </linked>
+            <text>E</text>
+            </RehearsalMark>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -5478,6 +5520,7 @@
             <HairPin>
               <subtype>0</subtype>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               </HairPin>
             <next>
@@ -5489,15 +5532,18 @@
             </Spanner>
           <Chord>
             <linked>
+              <indexDiff>1</indexDiff>
               </linked>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               </Articulation>
             <Note>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <pitch>59</pitch>
               <tpc>19</tpc>
@@ -5505,6 +5551,7 @@
             <Tremolo>
               <subtype>r8</subtype>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               </Tremolo>
             </Chord>
@@ -6678,6 +6725,14 @@
             <linked>
               </linked>
             </Dynamic>
+          <RehearsalMark>
+            <linked>
+              <location>
+                <staves>-26</staves>
+                </location>
+              </linked>
+            <text>F</text>
+            </RehearsalMark>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -6687,12 +6742,14 @@
             </Spanner>
           <Chord>
             <linked>
+              <indexDiff>1</indexDiff>
               </linked>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
               <anchor>0</anchor>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               </Articulation>
             <Articulation>
@@ -6700,16 +6757,19 @@
               <subtype>articAccentAbove</subtype>
               <anchor>0</anchor>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               </Articulation>
             <Note>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
             <Note>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <pitch>64</pitch>
               <tpc>18</tpc>
@@ -7700,14 +7760,23 @@
               <indexDiff>2</indexDiff>
               </linked>
             </Dynamic>
+          <RehearsalMark>
+            <linked>
+              <location>
+                <staves>-26</staves>
+                </location>
+              <indexDiff>1</indexDiff>
+              </linked>
+            <text>G</text>
+            </RehearsalMark>
           <Chord>
             <linked>
-              <indexDiff>2</indexDiff>
+              <indexDiff>4</indexDiff>
               </linked>
             <durationType>quarter</durationType>
             <Note>
               <linked>
-                <indexDiff>2</indexDiff>
+                <indexDiff>4</indexDiff>
                 </linked>
               <pitch>59</pitch>
               <tpc>19</tpc>
@@ -8046,6 +8115,14 @@
         </Measure>
       <Measure>
         <voice>
+          <RehearsalMark>
+            <linked>
+              <location>
+                <staves>-26</staves>
+                </location>
+              </linked>
+            <text>H</text>
+            </RehearsalMark>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
@@ -8413,6 +8490,14 @@
               </linked>
             <text>tutti</text>
             </StaffText>
+          <RehearsalMark>
+            <linked>
+              <location>
+                <staves>-26</staves>
+                </location>
+              </linked>
+            <text>I</text>
+            </RehearsalMark>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -8424,6 +8509,7 @@
             <HairPin>
               <subtype>0</subtype>
               <linked>
+                <indexDiff>2</indexDiff>
                 </linked>
               </HairPin>
             <next>
@@ -8434,10 +8520,12 @@
             </Spanner>
           <Chord>
             <linked>
+              <indexDiff>2</indexDiff>
               </linked>
             <durationType>quarter</durationType>
             <Note>
               <linked>
+                <indexDiff>2</indexDiff>
                 </linked>
               <pitch>59</pitch>
               <tpc>19</tpc>
@@ -8782,6 +8870,14 @@
             <linked>
               </linked>
             </Dynamic>
+          <RehearsalMark>
+            <linked>
+              <location>
+                <staves>-26</staves>
+                </location>
+              </linked>
+            <text>J</text>
+            </RehearsalMark>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -8791,10 +8887,12 @@
             </Spanner>
           <Chord>
             <linked>
+              <indexDiff>1</indexDiff>
               </linked>
             <durationType>eighth</durationType>
             <Note>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <pitch>64</pitch>
               <tpc>18</tpc>
@@ -10891,7 +10989,7 @@
                 <staves>-26</staves>
                 </location>
               </linked>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 150</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 150</text>
             </Tempo>
           <Rest>
             <linked>
