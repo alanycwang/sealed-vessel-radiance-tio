@@ -2,7 +2,7 @@
 <museScore version="4.20">
   <programVersion>4.2.0</programVersion>
   <programRevision>eb8d33c</programRevision>
-  <LastEID>70691</LastEID>
+  <LastEID>71149</LastEID>
   <Score>
     <name>Alto</name>
     <initialPartId>17</initialPartId>
@@ -2781,11 +2781,6 @@
       <Measure>
         <LayoutBreak>
           <eid>303619828088912</eid>
-          <linked>
-            <location>
-              <staves>-25</staves>
-              </location>
-            </linked>
           <subtype>section</subtype>
           </LayoutBreak>
         <voice>
