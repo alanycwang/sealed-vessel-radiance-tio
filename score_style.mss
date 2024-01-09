@@ -2,7 +2,7 @@
 <museScore version="4.20">
   <Style>
     <pageWidth>8.5</pageWidth>
-    <pageHeight>11</pageHeight>
+    <pageHeight>12.5</pageHeight>
     <pagePrintableWidth>7.3189</pagePrintableWidth>
     <pageEvenLeftMargin>0.590551</pageEvenLeftMargin>
     <pageOddLeftMargin>0.590551</pageOddLeftMargin>
