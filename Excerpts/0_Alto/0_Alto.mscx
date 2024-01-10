@@ -2,7 +2,7 @@
 <museScore version="4.20">
   <programVersion>4.2.0</programVersion>
   <programRevision>eb8d33c</programRevision>
-  <LastEID>71954</LastEID>
+  <LastEID>76824</LastEID>
   <Score>
     <name>Alto</name>
     <initialPartId>17</initialPartId>
@@ -40,7 +40,7 @@
     <metaTag name="partName">Alto</metaTag>
     <Part id="17">
       <Staff id="1">
-        <linkedTo>25</linkedTo>
+        <linkedTo>26</linkedTo>
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -67,14 +67,14 @@
         <eid>99256694210682</eid>
         <linked>
           <location>
-            <staves>-24</staves>
+            <staves>-25</staves>
             </location>
           </linked>
         <Text>
           <eid>99260989177862</eid>
           <linked>
             <location>
-              <staves>-24</staves>
+              <staves>-25</staves>
               </location>
             </linked>
           <style>title</style>
@@ -85,7 +85,7 @@
           <eid>99265284145158</eid>
           <linked>
             <location>
-              <staves>-24</staves>
+              <staves>-25</staves>
               </location>
             </linked>
           <style>subtitle</style>
@@ -96,7 +96,7 @@
           <eid>99269579112454</eid>
           <linked>
             <location>
-              <staves>-24</staves>
+              <staves>-25</staves>
               </location>
             </linked>
           <style>composer</style>
@@ -130,7 +130,7 @@
             <eid>99286758981679</eid>
             <linked>
               <location>
-                <staves>-24</staves>
+                <staves>-25</staves>
                 </location>
               <indexDiff>6</indexDiff>
               </linked>
@@ -140,7 +140,7 @@
             <eid>99291053948977</eid>
             <linked>
               <location>
-                <staves>-24</staves>
+                <staves>-25</staves>
                 </location>
               <indexDiff>6</indexDiff>
               </linked>
@@ -172,7 +172,7 @@
             <eid>99303938850863</eid>
             <linked>
               <location>
-                <staves>-24</staves>
+                <staves>-25</staves>
                 </location>
               <indexDiff>6</indexDiff>
               </linked>
@@ -182,7 +182,7 @@
             <eid>99308233818161</eid>
             <linked>
               <location>
-                <staves>-24</staves>
+                <staves>-25</staves>
                 </location>
               <indexDiff>6</indexDiff>
               </linked>
@@ -323,7 +323,7 @@
             <eid>99368363360310</eid>
             <linked>
               <location>
-                <staves>-24</staves>
+                <staves>-25</staves>
                 </location>
               <indexDiff>2</indexDiff>
               </linked>
@@ -479,7 +479,7 @@
             <eid>99445672771638</eid>
             <linked>
               <location>
-                <staves>-24</staves>
+                <staves>-25</staves>
                 </location>
               <indexDiff>1</indexDiff>
               </linked>
@@ -868,7 +868,7 @@
             <eid>99630356365366</eid>
             <linked>
               <location>
-                <staves>-24</staves>
+                <staves>-25</staves>
                 </location>
               </linked>
             <text>C</text>
@@ -989,7 +989,7 @@
             <eid>99694780874806</eid>
             <linked>
               <location>
-                <staves>-24</staves>
+                <staves>-25</staves>
                 </location>
               <indexDiff>1</indexDiff>
               </linked>
@@ -1011,7 +1011,7 @@
             <eid>99703370809398</eid>
             <linked>
               <location>
-                <staves>-24</staves>
+                <staves>-25</staves>
                 </location>
               <indexDiff>1</indexDiff>
               </linked>
@@ -1107,7 +1107,7 @@
             <eid>99742025515062</eid>
             <linked>
               <location>
-                <staves>-24</staves>
+                <staves>-25</staves>
                 </location>
               </linked>
             <text>F</text>
@@ -1128,7 +1128,7 @@
             <eid>99750615449654</eid>
             <linked>
               <location>
-                <staves>-24</staves>
+                <staves>-25</staves>
                 </location>
               </linked>
             <text>F</text>
@@ -1255,7 +1255,7 @@
             <eid>99806450024495</eid>
             <linked>
               <location>
-                <staves>-24</staves>
+                <staves>-25</staves>
                 </location>
               <indexDiff>2</indexDiff>
               </linked>
@@ -1265,7 +1265,7 @@
             <eid>99810744991798</eid>
             <linked>
               <location>
-                <staves>-24</staves>
+                <staves>-25</staves>
                 </location>
               <indexDiff>2</indexDiff>
               </linked>
@@ -1297,7 +1297,7 @@
             <eid>99823629893679</eid>
             <linked>
               <location>
-                <staves>-24</staves>
+                <staves>-25</staves>
                 </location>
               <indexDiff>2</indexDiff>
               </linked>
@@ -1307,7 +1307,7 @@
             <eid>99827924860982</eid>
             <linked>
               <location>
-                <staves>-24</staves>
+                <staves>-25</staves>
                 </location>
               <indexDiff>2</indexDiff>
               </linked>
@@ -1436,7 +1436,7 @@
             <eid>99879464468534</eid>
             <linked>
               <location>
-                <staves>-24</staves>
+                <staves>-25</staves>
                 </location>
               </linked>
             <text>H</text>
@@ -1958,7 +1958,7 @@
             <eid>100197292048438</eid>
             <linked>
               <location>
-                <staves>-24</staves>
+                <staves>-25</staves>
                 </location>
               </linked>
             <text>I</text>
@@ -2486,7 +2486,7 @@
             <eid>100519414595638</eid>
             <linked>
               <location>
-                <staves>-24</staves>
+                <staves>-25</staves>
                 </location>
               </linked>
             <text>J</text>
@@ -2833,7 +2833,7 @@
             <eid>100716983091247</eid>
             <linked>
               <location>
-                <staves>-24</staves>
+                <staves>-25</staves>
                 </location>
               <indexDiff>4</indexDiff>
               </linked>
@@ -2854,7 +2854,7 @@
             <eid>100725573025841</eid>
             <linked>
               <location>
-                <staves>-24</staves>
+                <staves>-25</staves>
                 </location>
               </linked>
             <text>Radiance</text>
@@ -3618,23 +3618,79 @@
         </Measure>
       <Measure>
         <voice>
-          <Rest>
-            <eid>101133594918937</eid>
+          <Chord>
+            <eid>311531157848179</eid>
             <linked>
               </linked>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
+            <durationType>half</durationType>
+            <Note>
+              <eid>311535452815380</eid>
+              <linked>
+                </linked>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>311544042750067</eid>
+            <linked>
+              </linked>
+            <durationType>quarter</durationType>
+            <Note>
+              <eid>311548337717268</eid>
+              <linked>
+                </linked>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>311552632684659</eid>
+            <linked>
+              </linked>
+            <durationType>quarter</durationType>
+            <Note>
+              <eid>311556927651860</eid>
+              <linked>
+                </linked>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Rest>
-            <eid>101137889886233</eid>
+          <Chord>
+            <eid>311565517586547</eid>
             <linked>
               </linked>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>311569812553748</eid>
+              <linked>
+                </linked>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <eid>311574107521049</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <eid>311578402488345</eid>
+            <linked>
+              </linked>
+            <durationType>quarter</durationType>
+            </Rest>
+          <Rest>
+            <eid>311582697455641</eid>
+            <linked>
+              </linked>
+            <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -4412,7 +4468,7 @@
             <eid>101580271517743</eid>
             <linked>
               <location>
-                <staves>-24</staves>
+                <staves>-25</staves>
                 </location>
               </linked>
             <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 150</text>
