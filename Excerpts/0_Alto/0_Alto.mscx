@@ -2,7 +2,7 @@
 <museScore version="4.20">
   <programVersion>4.2.0</programVersion>
   <programRevision>eb8d33c</programRevision>
-  <LastEID>76824</LastEID>
+  <LastEID>78626</LastEID>
   <Score>
     <name>Alto</name>
     <initialPartId>17</initialPartId>
@@ -3707,12 +3707,42 @@
         </Measure>
       <Measure>
         <voice>
-          <Rest>
-            <eid>101146479820825</eid>
+          <Chord>
+            <eid>330411834081395</eid>
             <linked>
               </linked>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articAccentAbove</subtype>
+              <eid>330416129048607</eid>
+              <linked>
+                </linked>
+              </Articulation>
+            <Note>
+              <eid>330420424015892</eid>
+              <linked>
+                </linked>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Rest>
+            <eid>330424718983193</eid>
+            <linked>
+              </linked>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <eid>330429013950489</eid>
+            <linked>
+              </linked>
+            <durationType>quarter</durationType>
+            </Rest>
+          <Rest>
+            <eid>330433308917785</eid>
+            <linked>
+              </linked>
+            <durationType>half</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -3773,24 +3803,63 @@
         </Measure>
       <Measure>
         <voice>
-          <Rest>
-            <eid>101172249624601</eid>
+          <Chord>
+            <eid>336639536660595</eid>
             <linked>
               </linked>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <eid>336643831627796</eid>
+              <linked>
+                </linked>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>336648126595187</eid>
+            <linked>
+              </linked>
+            <durationType>quarter</durationType>
+            <Note>
+              <eid>336652421562388</eid>
+              <linked>
+                </linked>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Rest>
-            <eid>101176544591897</eid>
+          <Chord>
+            <eid>336656716529779</eid>
             <linked>
               </linked>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
+            <durationType>half</durationType>
+            <Note>
+              <eid>336661011496980</eid>
+              <linked>
+                </linked>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>336665306464371</eid>
+            <linked>
+              </linked>
+            <durationType>half</durationType>
+            <Note>
+              <eid>336669601431572</eid>
+              <linked>
+                </linked>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
