@@ -2,21 +2,22 @@
 <museScore version="4.20">
   <programVersion>4.2.0</programVersion>
   <programRevision>eb8d33c</programRevision>
-  <LastEID>78626</LastEID>
+  <LastEID>82122</LastEID>
   <Score>
     <name>Alto</name>
     <initialPartId>17</initialPartId>
     <Division>480</Division>
     <Style>
-      <pageWidth>8.5</pageWidth>
-      <pageHeight>11</pageHeight>
-      <pagePrintableWidth>7.3189</pagePrintableWidth>
-      <pageEvenLeftMargin>0.590551</pageEvenLeftMargin>
-      <pageOddLeftMargin>0.590551</pageOddLeftMargin>
-      <pageEvenTopMargin>0.590551</pageEvenTopMargin>
-      <pageEvenBottomMargin>0.590551</pageEvenBottomMargin>
-      <pageOddTopMargin>0.590551</pageOddTopMargin>
-      <pageOddBottomMargin>0.590551</pageOddBottomMargin>
+      <pageWidth>8.27</pageWidth>
+      <pageHeight>11.69</pageHeight>
+      <pagePrintableWidth>7.27</pagePrintableWidth>
+      <pageEvenLeftMargin>0.5</pageEvenLeftMargin>
+      <pageOddLeftMargin>0.5</pageOddLeftMargin>
+      <pageEvenTopMargin>0.59</pageEvenTopMargin>
+      <pageEvenBottomMargin>0.59</pageEvenBottomMargin>
+      <pageOddTopMargin>0.5</pageOddTopMargin>
+      <pageOddBottomMargin>0.3</pageOddBottomMargin>
+      <pageTwosided>0</pageTwosided>
       <articulationAnchorLuteFingering>4</articulationAnchorLuteFingering>
       <hairpinLinePosAbove x="0" y="-3"/>
       <hairpinLinePosBelow x="0" y="4"/>
@@ -31,7 +32,7 @@
       <palmMutePosAbove x="0" y="-4"/>
       <palmMutePosBelow x="0" y="4"/>
       <defaultsVersion>400</defaultsVersion>
-      <Spatium>1.74978</Spatium>
+      <Spatium>1.524</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -40,7 +41,7 @@
     <metaTag name="partName">Alto</metaTag>
     <Part id="17">
       <Staff id="1">
-        <linkedTo>26</linkedTo>
+        <linkedTo>27</linkedTo>
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
@@ -67,14 +68,14 @@
         <eid>99256694210682</eid>
         <linked>
           <location>
-            <staves>-25</staves>
+            <staves>-26</staves>
             </location>
           </linked>
         <Text>
           <eid>99260989177862</eid>
           <linked>
             <location>
-              <staves>-25</staves>
+              <staves>-26</staves>
               </location>
             </linked>
           <style>title</style>
@@ -85,7 +86,7 @@
           <eid>99265284145158</eid>
           <linked>
             <location>
-              <staves>-25</staves>
+              <staves>-26</staves>
               </location>
             </linked>
           <style>subtitle</style>
@@ -96,7 +97,7 @@
           <eid>99269579112454</eid>
           <linked>
             <location>
-              <staves>-25</staves>
+              <staves>-26</staves>
               </location>
             </linked>
           <style>composer</style>
@@ -130,17 +131,17 @@
             <eid>99286758981679</eid>
             <linked>
               <location>
-                <staves>-25</staves>
+                <staves>-26</staves>
                 </location>
               <indexDiff>6</indexDiff>
               </linked>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 120</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 120</text>
             </Tempo>
           <SystemText>
             <eid>99291053948977</eid>
             <linked>
               <location>
-                <staves>-25</staves>
+                <staves>-26</staves>
                 </location>
               <indexDiff>6</indexDiff>
               </linked>
@@ -172,17 +173,17 @@
             <eid>99303938850863</eid>
             <linked>
               <location>
-                <staves>-25</staves>
+                <staves>-26</staves>
                 </location>
               <indexDiff>6</indexDiff>
               </linked>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 120</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 120</text>
             </Tempo>
           <SystemText>
             <eid>99308233818161</eid>
             <linked>
               <location>
-                <staves>-25</staves>
+                <staves>-26</staves>
                 </location>
               <indexDiff>6</indexDiff>
               </linked>
@@ -323,7 +324,7 @@
             <eid>99368363360310</eid>
             <linked>
               <location>
-                <staves>-25</staves>
+                <staves>-26</staves>
                 </location>
               <indexDiff>2</indexDiff>
               </linked>
@@ -479,7 +480,7 @@
             <eid>99445672771638</eid>
             <linked>
               <location>
-                <staves>-25</staves>
+                <staves>-26</staves>
                 </location>
               <indexDiff>1</indexDiff>
               </linked>
@@ -868,7 +869,7 @@
             <eid>99630356365366</eid>
             <linked>
               <location>
-                <staves>-25</staves>
+                <staves>-26</staves>
                 </location>
               </linked>
             <text>C</text>
@@ -989,7 +990,7 @@
             <eid>99694780874806</eid>
             <linked>
               <location>
-                <staves>-25</staves>
+                <staves>-26</staves>
                 </location>
               <indexDiff>1</indexDiff>
               </linked>
@@ -1011,7 +1012,7 @@
             <eid>99703370809398</eid>
             <linked>
               <location>
-                <staves>-25</staves>
+                <staves>-26</staves>
                 </location>
               <indexDiff>1</indexDiff>
               </linked>
@@ -1107,7 +1108,7 @@
             <eid>99742025515062</eid>
             <linked>
               <location>
-                <staves>-25</staves>
+                <staves>-26</staves>
                 </location>
               </linked>
             <text>F</text>
@@ -1128,7 +1129,7 @@
             <eid>99750615449654</eid>
             <linked>
               <location>
-                <staves>-25</staves>
+                <staves>-26</staves>
                 </location>
               </linked>
             <text>F</text>
@@ -1255,17 +1256,17 @@
             <eid>99806450024495</eid>
             <linked>
               <location>
-                <staves>-25</staves>
+                <staves>-26</staves>
                 </location>
               <indexDiff>2</indexDiff>
               </linked>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 60</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 60</text>
             </Tempo>
           <RehearsalMark>
             <eid>99810744991798</eid>
             <linked>
               <location>
-                <staves>-25</staves>
+                <staves>-26</staves>
                 </location>
               <indexDiff>2</indexDiff>
               </linked>
@@ -1297,17 +1298,17 @@
             <eid>99823629893679</eid>
             <linked>
               <location>
-                <staves>-25</staves>
+                <staves>-26</staves>
                 </location>
               <indexDiff>2</indexDiff>
               </linked>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 60</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 60</text>
             </Tempo>
           <RehearsalMark>
             <eid>99827924860982</eid>
             <linked>
               <location>
-                <staves>-25</staves>
+                <staves>-26</staves>
                 </location>
               <indexDiff>2</indexDiff>
               </linked>
@@ -1436,7 +1437,7 @@
             <eid>99879464468534</eid>
             <linked>
               <location>
-                <staves>-25</staves>
+                <staves>-26</staves>
                 </location>
               </linked>
             <text>H</text>
@@ -1958,7 +1959,7 @@
             <eid>100197292048438</eid>
             <linked>
               <location>
-                <staves>-25</staves>
+                <staves>-26</staves>
                 </location>
               </linked>
             <text>I</text>
@@ -2486,7 +2487,7 @@
             <eid>100519414595638</eid>
             <linked>
               <location>
-                <staves>-25</staves>
+                <staves>-26</staves>
                 </location>
               </linked>
             <text>J</text>
@@ -2833,11 +2834,11 @@
             <eid>100716983091247</eid>
             <linked>
               <location>
-                <staves>-25</staves>
+                <staves>-26</staves>
                 </location>
               <indexDiff>4</indexDiff>
               </linked>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 120</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 120</text>
             </Tempo>
           <Rest>
             <eid>100721278058521</eid>
@@ -2854,7 +2855,7 @@
             <eid>100725573025841</eid>
             <linked>
               <location>
-                <staves>-25</staves>
+                <staves>-26</staves>
                 </location>
               </linked>
             <text>Radiance</text>
@@ -4537,10 +4538,10 @@
             <eid>101580271517743</eid>
             <linked>
               <location>
-                <staves>-25</staves>
+                <staves>-26</staves>
                 </location>
               </linked>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 150</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 150</text>
             </Tempo>
           <Rest>
             <eid>101584566485017</eid>

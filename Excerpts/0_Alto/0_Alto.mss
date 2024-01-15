@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="4.20">
   <Style>
-    <pageWidth>8.5</pageWidth>
-    <pageHeight>11</pageHeight>
-    <pagePrintableWidth>7.3189</pagePrintableWidth>
-    <pageEvenLeftMargin>0.590551</pageEvenLeftMargin>
-    <pageOddLeftMargin>0.590551</pageOddLeftMargin>
-    <pageEvenTopMargin>0.590551</pageEvenTopMargin>
-    <pageEvenBottomMargin>0.590551</pageEvenBottomMargin>
-    <pageOddTopMargin>0.590551</pageOddTopMargin>
-    <pageOddBottomMargin>0.590551</pageOddBottomMargin>
-    <pageTwosided>1</pageTwosided>
+    <pageWidth>8.27</pageWidth>
+    <pageHeight>11.69</pageHeight>
+    <pagePrintableWidth>7.27</pagePrintableWidth>
+    <pageEvenLeftMargin>0.5</pageEvenLeftMargin>
+    <pageOddLeftMargin>0.5</pageOddLeftMargin>
+    <pageEvenTopMargin>0.59</pageEvenTopMargin>
+    <pageEvenBottomMargin>0.59</pageEvenBottomMargin>
+    <pageOddTopMargin>0.5</pageOddTopMargin>
+    <pageOddBottomMargin>0.3</pageOddBottomMargin>
+    <pageTwosided>0</pageTwosided>
     <staffUpperBorder>7</staffUpperBorder>
     <staffLowerBorder>7</staffLowerBorder>
     <staffHeaderFooterPadding>1</staffHeaderFooterPadding>
@@ -1433,6 +1433,6 @@
     <chordlineThickness>0.16</chordlineThickness>
     <autoplaceEnabled>1</autoplaceEnabled>
     <defaultsVersion>400</defaultsVersion>
-    <Spatium>1.74978</Spatium>
+    <Spatium>1.524</Spatium>
     </Style>
   </museScore>

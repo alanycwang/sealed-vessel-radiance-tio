@@ -3,14 +3,14 @@
   <Style>
     <pageWidth>8.5</pageWidth>
     <pageHeight>12.5</pageHeight>
-    <pagePrintableWidth>7.3189</pagePrintableWidth>
+    <pagePrintableWidth>7.5</pagePrintableWidth>
     <pageEvenLeftMargin>0.590551</pageEvenLeftMargin>
-    <pageOddLeftMargin>0.590551</pageOddLeftMargin>
+    <pageOddLeftMargin>0.5</pageOddLeftMargin>
     <pageEvenTopMargin>0.590551</pageEvenTopMargin>
     <pageEvenBottomMargin>0.590551</pageEvenBottomMargin>
-    <pageOddTopMargin>0.590551</pageOddTopMargin>
-    <pageOddBottomMargin>0.590551</pageOddBottomMargin>
-    <pageTwosided>1</pageTwosided>
+    <pageOddTopMargin>0.5</pageOddTopMargin>
+    <pageOddBottomMargin>0.5</pageOddBottomMargin>
+    <pageTwosided>0</pageTwosided>
     <staffUpperBorder>7</staffUpperBorder>
     <staffLowerBorder>7</staffLowerBorder>
     <staffHeaderFooterPadding>1</staffHeaderFooterPadding>
@@ -1433,6 +1433,6 @@
     <chordlineThickness>0.16</chordlineThickness>
     <autoplaceEnabled>1</autoplaceEnabled>
     <defaultsVersion>400</defaultsVersion>
-    <Spatium>0.95</Spatium>
+    <Spatium>0.762</Spatium>
     </Style>
   </museScore>
