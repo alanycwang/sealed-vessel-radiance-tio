@@ -2,7 +2,7 @@
 <museScore version="4.20">
   <programVersion>4.2.0</programVersion>
   <programRevision>eb8d33c</programRevision>
-  <LastEID>82122</LastEID>
+  <LastEID>87780</LastEID>
   <Score>
     <name>Alto</name>
     <initialPartId>17</initialPartId>
@@ -135,7 +135,7 @@
                 </location>
               <indexDiff>6</indexDiff>
               </linked>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 120</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 120</text>
             </Tempo>
           <SystemText>
             <eid>99291053948977</eid>
@@ -177,7 +177,7 @@
                 </location>
               <indexDiff>6</indexDiff>
               </linked>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 120</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 120</text>
             </Tempo>
           <SystemText>
             <eid>99308233818161</eid>
@@ -1260,7 +1260,7 @@
                 </location>
               <indexDiff>2</indexDiff>
               </linked>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 60</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 60</text>
             </Tempo>
           <RehearsalMark>
             <eid>99810744991798</eid>
@@ -1302,7 +1302,7 @@
                 </location>
               <indexDiff>2</indexDiff>
               </linked>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 60</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 60</text>
             </Tempo>
           <RehearsalMark>
             <eid>99827924860982</eid>
@@ -2838,7 +2838,7 @@
                 </location>
               <indexDiff>4</indexDiff>
               </linked>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 120</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 120</text>
             </Tempo>
           <Rest>
             <eid>100721278058521</eid>
@@ -4541,7 +4541,7 @@
                 <staves>-26</staves>
                 </location>
               </linked>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 150</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 150</text>
             </Tempo>
           <Rest>
             <eid>101584566485017</eid>
