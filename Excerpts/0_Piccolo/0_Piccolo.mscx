@@ -2,7 +2,7 @@
 <museScore version="4.20">
   <programVersion>4.2.1</programVersion>
   <programRevision>d757433</programRevision>
-  <LastEID>147521</LastEID>
+  <LastEID>150515</LastEID>
   <Score>
     <name>Piccolo</name>
     <initialPartId>1</initialPartId>
@@ -37,6 +37,7 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <open>1</open>
     <metaTag name="partName">Piccolo</metaTag>
     <Part id="1">
       <Staff id="1">
@@ -75,7 +76,10 @@
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
+        <isStaffVisible>0</isStaffVisible>
+        <barLineSpan>1</barLineSpan>
         </Staff>
+      <show>0</show>
       <trackName>Flute</trackName>
       <Instrument id="flute">
         <longName>Flute</longName>
@@ -342,6 +346,23 @@
             </Rest>
           </voice>
         </Measure>
+      <Measure len="32/4">
+        <multiMeasureRest>8</multiMeasureRest>
+        <voice>
+          <RehearsalMark>
+            <eid>641199962587190</eid>
+            <linked>
+              <indexDiff>-2</indexDiff>
+              </linked>
+            <text>12</text>
+            </RehearsalMark>
+          <Rest>
+            <eid>641204257554458</eid>
+            <durationType>measure</durationType>
+            <duration>32/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
       <Measure>
         <voice>
           <Rest>
@@ -433,6 +454,23 @@
               </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure len="56/4">
+        <multiMeasureRest>14</multiMeasureRest>
+        <voice>
+          <RehearsalMark>
+            <eid>641208552521782</eid>
+            <linked>
+              <indexDiff>-2</indexDiff>
+              </linked>
+            <text>20</text>
+            </RehearsalMark>
+          <Rest>
+            <eid>641212847489050</eid>
+            <durationType>measure</durationType>
+            <duration>56/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -596,6 +634,23 @@
             </Rest>
           </voice>
         </Measure>
+      <Measure len="24/4">
+        <multiMeasureRest>6</multiMeasureRest>
+        <voice>
+          <RehearsalMark>
+            <eid>641217142456374</eid>
+            <linked>
+              <indexDiff>-2</indexDiff>
+              </linked>
+            <text>34</text>
+            </RehearsalMark>
+          <Rest>
+            <eid>641221437423642</eid>
+            <durationType>measure</durationType>
+            <duration>24/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
       <Measure>
         <voice>
           <Rest>
@@ -665,6 +720,23 @@
               </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure len="32/4">
+        <multiMeasureRest>8</multiMeasureRest>
+        <voice>
+          <RehearsalMark>
+            <eid>641225732390966</eid>
+            <linked>
+              <indexDiff>-2</indexDiff>
+              </linked>
+            <text>40</text>
+            </RehearsalMark>
+          <Rest>
+            <eid>641230027358234</eid>
+            <durationType>measure</durationType>
+            <duration>32/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -760,6 +832,29 @@
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
+          </voice>
+        </Measure>
+      <Measure len="36/4">
+        <multiMeasureRest>9</multiMeasureRest>
+        <voice>
+          <RehearsalMark>
+            <eid>641234322325558</eid>
+            <linked>
+              <indexDiff>-2</indexDiff>
+              </linked>
+            <text>48</text>
+            </RehearsalMark>
+          <Rest>
+            <eid>641238617292826</eid>
+            <durationType>measure</durationType>
+            <duration>36/4</duration>
+            </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            <eid>641242912260108</eid>
+            <linked>
+              </linked>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -1585,8 +1680,8 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="12/4">
-        <multiMeasureRest>3</multiMeasureRest>
+      <Measure len="52/4">
+        <multiMeasureRest>13</multiMeasureRest>
         <voice>
           <RehearsalMark>
             <eid>597545914990646</eid>
@@ -1668,16 +1763,6 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="16/4">
-        <multiMeasureRest>4</multiMeasureRest>
-        <voice>
-          <Rest>
-            <eid>605972640825370</eid>
-            <durationType>measure</durationType>
-            <duration>16/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
       <Measure>
         <voice>
           <Rest>
@@ -1752,11 +1837,30 @@
               </linked>
             <text>118</text>
             </RehearsalMark>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            <eid>645327426158627</eid>
+            <linked>
+              </linked>
+            </Dynamic>
           <Chord>
             <eid>441406673911923</eid>
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <eid>637544945418356</eid>
+                <linked>
+                  </linked>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>3/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <eid>441410968879124</eid>
               <linked>
@@ -1796,6 +1900,13 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-3/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <eid>441436738682900</eid>
               <linked>
@@ -1809,6 +1920,18 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <eid>637549240385652</eid>
+                <linked>
+                  </linked>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>3/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <eid>441445328617492</eid>
               <linked>
@@ -1848,6 +1971,13 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-3/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <eid>441471098421268</eid>
               <linked>
@@ -1861,6 +1991,18 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <eid>637553535352948</eid>
+                <linked>
+                  </linked>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>3/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <eid>441479688355860</eid>
               <linked>
@@ -1900,6 +2042,13 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-3/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <eid>441505458159636</eid>
               <linked>
@@ -1913,6 +2062,18 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <eid>637557830320244</eid>
+                <linked>
+                  </linked>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>3/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <eid>441514048094228</eid>
               <linked>
@@ -1952,6 +2113,13 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-3/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <eid>441539817898004</eid>
               <linked>
@@ -2063,6 +2231,18 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <eid>640276544618612</eid>
+                <linked>
+                  </linked>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>3/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <eid>441612832342036</eid>
               <linked>
@@ -2106,6 +2286,13 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-3/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <eid>441651487047700</eid>
               <linked>
@@ -2119,6 +2306,18 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <eid>640280839585908</eid>
+                <linked>
+                  </linked>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>3/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <eid>441660076982292</eid>
               <linked>
@@ -2162,6 +2361,13 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-3/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <eid>441685846786068</eid>
               <linked>
@@ -2179,6 +2385,18 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <eid>640285134553204</eid>
+                <linked>
+                  </linked>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>3/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <eid>441698731687956</eid>
               <linked>
@@ -2226,6 +2444,13 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-3/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <eid>441724501491732</eid>
               <linked>
@@ -2555,6 +2780,18 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <eid>641247207227508</eid>
+                <linked>
+                  </linked>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>3/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <eid>441930659921940</eid>
               <linked>
@@ -2602,6 +2839,13 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-3/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <eid>441965019660308</eid>
               <linked>
@@ -2615,6 +2859,18 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <eid>641251502194804</eid>
+                <linked>
+                  </linked>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>3/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <eid>441973609594900</eid>
               <linked>
@@ -2654,6 +2910,13 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-3/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <eid>441999379398676</eid>
               <linked>
@@ -2671,6 +2934,18 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <eid>641255797162100</eid>
+                <linked>
+                  </linked>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>3/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <eid>442012264300564</eid>
               <linked>
@@ -2710,6 +2985,13 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-3/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <eid>442038034104340</eid>
               <linked>
@@ -2727,6 +3009,18 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <eid>641260092129396</eid>
+                <linked>
+                  </linked>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>3/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <eid>442050919006228</eid>
               <linked>
@@ -2766,6 +3060,13 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-3/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <eid>442076688810004</eid>
               <linked>
@@ -2787,8 +3088,8 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="8/4">
-        <multiMeasureRest>2</multiMeasureRest>
+      <Measure len="12/4">
+        <multiMeasureRest>3</multiMeasureRest>
         <voice>
           <Rest>
             <eid>442085278744602</eid>
@@ -3283,13 +3584,6 @@
             <sigN>3</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <Dynamic>
-            <subtype>mf</subtype>
-            <velocity>80</velocity>
-            <eid>442351566716963</eid>
-            <linked>
-              </linked>
-            </Dynamic>
           <RehearsalMark>
             <eid>597567389827126</eid>
             <linked>
@@ -5572,8 +5866,8 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="24/4">
-        <multiMeasureRest>6</multiMeasureRest>
+      <Measure len="40/4">
+        <multiMeasureRest>10</multiMeasureRest>
         <voice>
           <TimeSig>
             <eid>443605697167384</eid>
@@ -5731,6 +6025,16 @@
               </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure len="8/4">
+        <multiMeasureRest>2</multiMeasureRest>
+        <voice>
+          <Rest>
+            <eid>641264387096602</eid>
+            <durationType>measure</durationType>
+            <duration>8/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -5965,6 +6269,25 @@
               </linked>
             <durationType>measure</durationType>
             <duration>3/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure len="12/4">
+        <multiMeasureRest>4</multiMeasureRest>
+        <voice>
+          <Tempo>
+            <tempo>0.916667</tempo>
+            <followText>1</followText>
+            <eid>641268682063919</eid>
+            <linked>
+              <indexDiff>-2</indexDiff>
+              </linked>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 55</text>
+            </Tempo>
+          <Rest>
+            <eid>641272977031194</eid>
+            <durationType>measure</durationType>
+            <duration>12/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -6308,7 +6631,6 @@
             </Rest>
           <BarLine>
             <subtype>double</subtype>
-            <span>1</span>
             <eid>606049950236684</eid>
             <linked>
               </linked>
@@ -6413,6 +6735,16 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure len="32/4">
+        <multiMeasureRest>8</multiMeasureRest>
+        <voice>
+          <Rest>
+            <eid>641277271998490</eid>
+            <durationType>measure</durationType>
+            <duration>32/4</duration>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -7068,6 +7400,16 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure len="56/4">
+        <multiMeasureRest>14</multiMeasureRest>
+        <voice>
+          <Rest>
+            <eid>641281566965786</eid>
+            <durationType>measure</durationType>
+            <duration>56/4</duration>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -8460,6 +8802,16 @@
             </Chord>
           </voice>
         </Measure>
+      <Measure len="24/4">
+        <multiMeasureRest>6</multiMeasureRest>
+        <voice>
+          <Rest>
+            <eid>641285861933082</eid>
+            <durationType>measure</durationType>
+            <duration>24/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
       <Measure>
         <voice>
           <Chord>
@@ -8835,6 +9187,16 @@
             </Chord>
           </voice>
         </Measure>
+      <Measure len="32/4">
+        <multiMeasureRest>8</multiMeasureRest>
+        <voice>
+          <Rest>
+            <eid>641290156900378</eid>
+            <durationType>measure</durationType>
+            <duration>32/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
       <Measure>
         <voice>
           <Chord>
@@ -9159,21 +9521,10 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                <eid>607866721402996</eid>
-                <linked>
-                  </linked>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>5/24</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <Note>
               <eid>607871016370196</eid>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <pitch>78</pitch>
               <tpc>20</tpc>
@@ -9236,13 +9587,6 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-5/24</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
               <eid>607913966043156</eid>
               <linked>
@@ -9269,21 +9613,10 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                <eid>607926850945140</eid>
-                <linked>
-                  </linked>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>5/24</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <Note>
               <eid>607931145912340</eid>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <pitch>79</pitch>
               <tpc>15</tpc>
@@ -9346,13 +9679,6 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-5/24</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
               <eid>607974095585300</eid>
               <linked>
@@ -9965,6 +10291,22 @@
               </linked>
             <durationType>eighth</durationType>
             </Rest>
+          </voice>
+        </Measure>
+      <Measure len="36/4">
+        <multiMeasureRest>9</multiMeasureRest>
+        <voice>
+          <Rest>
+            <eid>641294451867674</eid>
+            <durationType>measure</durationType>
+            <duration>36/4</duration>
+            </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            <eid>641298746834956</eid>
+            <linked>
+              </linked>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -10796,7 +11138,6 @@
             </Rest>
           <BarLine>
             <subtype>double</subtype>
-            <span>1</span>
             <eid>608867448782860</eid>
             <linked>
               </linked>
@@ -11324,7 +11665,6 @@
             </Breath>
           <BarLine>
             <subtype>double</subtype>
-            <span>1</span>
             <eid>609082197147660</eid>
             <linked>
               </linked>
@@ -11431,8 +11771,8 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="12/4">
-        <multiMeasureRest>3</multiMeasureRest>
+      <Measure len="52/4">
+        <multiMeasureRest>13</multiMeasureRest>
         <voice>
           <Rest>
             <eid>609129441787930</eid>
@@ -11598,16 +11938,6 @@
               </linked>
             <durationType>measure</durationType>
             <duration>4/4</duration>
-            </Rest>
-          </voice>
-        </Measure>
-      <Measure len="16/4">
-        <multiMeasureRest>4</multiMeasureRest>
-        <voice>
-          <Rest>
-            <eid>609223931068442</eid>
-            <durationType>measure</durationType>
-            <duration>16/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -11935,6 +12265,18 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <eid>641303041802356</eid>
+                <linked>
+                  </linked>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>3/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <eid>609434384465940</eid>
               <linked>
@@ -11974,6 +12316,13 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-3/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <eid>609460154269716</eid>
               <linked>
@@ -11987,6 +12336,18 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <eid>641307336769652</eid>
+                <linked>
+                  </linked>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>3/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <eid>609468744204308</eid>
               <linked>
@@ -12026,6 +12387,13 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-3/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <eid>609494514008084</eid>
               <linked>
@@ -12039,6 +12407,18 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <eid>641311631736948</eid>
+                <linked>
+                  </linked>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>3/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <eid>609503103942676</eid>
               <linked>
@@ -12078,6 +12458,13 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-3/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <eid>609528873746452</eid>
               <linked>
@@ -12091,6 +12478,18 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <eid>641315926704244</eid>
+                <linked>
+                  </linked>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>3/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <eid>609537463681044</eid>
               <linked>
@@ -12130,6 +12529,13 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-3/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <eid>609563233484820</eid>
               <linked>
@@ -12241,6 +12647,18 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <eid>641320221671540</eid>
+                <linked>
+                  </linked>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>3/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <eid>609636247928852</eid>
               <linked>
@@ -12284,6 +12702,13 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-3/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <eid>609674902634516</eid>
               <linked>
@@ -12297,6 +12722,18 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <eid>641324516638836</eid>
+                <linked>
+                  </linked>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>3/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <eid>609683492569108</eid>
               <linked>
@@ -12340,6 +12777,13 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-3/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <eid>609709262372884</eid>
               <linked>
@@ -12357,6 +12801,18 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <eid>641328811606132</eid>
+                <linked>
+                  </linked>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>3/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <eid>609722147274772</eid>
               <linked>
@@ -12404,6 +12860,13 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-3/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <eid>609747917078548</eid>
               <linked>
@@ -12544,6 +13007,18 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <eid>641333106573428</eid>
+                <linked>
+                  </linked>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>3/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <eid>609838111391764</eid>
               <linked>
@@ -12591,6 +13066,13 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-3/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <eid>609872471130132</eid>
               <linked>
@@ -12604,6 +13086,18 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <eid>641337401540724</eid>
+                <linked>
+                  </linked>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>3/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <eid>609881061064724</eid>
               <linked>
@@ -12643,6 +13137,13 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-3/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <eid>609906830868500</eid>
               <linked>
@@ -12660,6 +13161,18 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <eid>641341696508020</eid>
+                <linked>
+                  </linked>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>3/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <eid>609919715770388</eid>
               <linked>
@@ -12699,6 +13212,13 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-3/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <eid>609945485574164</eid>
               <linked>
@@ -12716,6 +13236,18 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <eid>641345991475316</eid>
+                <linked>
+                  </linked>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>3/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <eid>609958370476052</eid>
               <linked>
@@ -12755,6 +13287,13 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-3/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <eid>609984140279828</eid>
               <linked>
@@ -12926,6 +13465,18 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <eid>641350286442612</eid>
+                <linked>
+                  </linked>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>3/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <eid>610087219494932</eid>
               <linked>
@@ -12973,6 +13524,13 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-3/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <eid>610121579233300</eid>
               <linked>
@@ -12986,6 +13544,18 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <eid>641354581409908</eid>
+                <linked>
+                  </linked>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>3/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <eid>610130169167892</eid>
               <linked>
@@ -13025,6 +13595,13 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-3/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <eid>610155938971668</eid>
               <linked>
@@ -13042,6 +13619,18 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <eid>641358876377204</eid>
+                <linked>
+                  </linked>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>3/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <eid>610168823873556</eid>
               <linked>
@@ -13081,6 +13670,13 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-3/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <eid>610194593677332</eid>
               <linked>
@@ -13098,6 +13694,18 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                <eid>641363171344500</eid>
+                <linked>
+                  </linked>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>3/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <eid>610207478579220</eid>
               <linked>
@@ -13137,6 +13745,13 @@
             <linked>
               </linked>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-3/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <eid>610233248382996</eid>
               <linked>
@@ -13158,8 +13773,8 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="8/4">
-        <multiMeasureRest>2</multiMeasureRest>
+      <Measure len="12/4">
+        <multiMeasureRest>3</multiMeasureRest>
         <voice>
           <Rest>
             <eid>610241838317594</eid>
@@ -13195,6 +13810,7 @@
             <Note>
               <eid>610259018186772</eid>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <Accidental>
                 <subtype>accidentalFlat</subtype>
@@ -13255,6 +13871,7 @@
             <Note>
               <eid>610301967859732</eid>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <pitch>71</pitch>
               <tpc>19</tpc>
@@ -13311,6 +13928,7 @@
             <Note>
               <eid>610340622565396</eid>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <pitch>74</pitch>
               <tpc>16</tpc>
@@ -13812,13 +14430,6 @@
             <sigN>3</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <Dynamic>
-            <subtype>mf</subtype>
-            <velocity>80</velocity>
-            <eid>610628385374243</eid>
-            <linked>
-              </linked>
-            </Dynamic>
           <Chord>
             <eid>610632680341619</eid>
             <linked>
@@ -16073,8 +16684,8 @@
             </Rest>
           </voice>
         </Measure>
-      <Measure len="24/4">
-        <multiMeasureRest>6</multiMeasureRest>
+      <Measure len="40/4">
+        <multiMeasureRest>10</multiMeasureRest>
         <voice>
           <TimeSig>
             <eid>611873925890072</eid>
@@ -16157,6 +16768,33 @@
               </linked>
             <durationType>quarter</durationType>
             </Rest>
+          <Dynamic>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
+            <eid>645877181972515</eid>
+            <linked>
+              </linked>
+            </Dynamic>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>2</subtype>
+              <eid>645881476939870</eid>
+              <linked>
+                </linked>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="1.74193"/>
+                <off2 x="-0.245075" y="0"/>
+                <eid>645885771907136</eid>
+                </Segment>
+              </HairPin>
+            <next>
+              <location>
+                <measures>6</measures>
+                <fractions>-3/4</fractions>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <eid>611912580595827</eid>
             <linked>
@@ -16532,6 +17170,16 @@
             </Chord>
           </voice>
         </Measure>
+      <Measure len="8/4">
+        <multiMeasureRest>2</multiMeasureRest>
+        <voice>
+          <Rest>
+            <eid>641367466311706</eid>
+            <durationType>measure</durationType>
+            <duration>8/4</duration>
+            </Rest>
+          </voice>
+        </Measure>
       <Measure>
         <voice>
           <Chord>
@@ -16551,6 +17199,14 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-6</measures>
+                <fractions>3/4</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <eid>612105854124147</eid>
             <linked>
@@ -16591,7 +17247,6 @@
             </Breath>
           <BarLine>
             <subtype>double</subtype>
-            <span>1</span>
             <eid>612131623927820</eid>
             <linked>
               </linked>
@@ -16779,6 +17434,22 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure len="12/4">
+        <multiMeasureRest>4</multiMeasureRest>
+        <voice>
+          <StaffText>
+            <eid>641371761279024</eid>
+            <linked>
+              </linked>
+            <text>Solo</text>
+            </StaffText>
+          <Rest>
+            <eid>641376056246298</eid>
+            <durationType>measure</durationType>
+            <duration>12/4</duration>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
