@@ -2,7 +2,7 @@
 <museScore version="4.20">
   <programVersion>4.2.1</programVersion>
   <programRevision>d757433</programRevision>
-  <LastEID>144843</LastEID>
+  <LastEID>147521</LastEID>
   <Score>
     <name>Piccolo</name>
     <initialPartId>1</initialPartId>
@@ -37,7 +37,6 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <open>1</open>
     <metaTag name="partName">Piccolo</metaTag>
     <Part id="1">
       <Staff id="1">
@@ -332,7 +331,7 @@
             <eid>438859758305334</eid>
             <linked>
               </linked>
-            <text>A</text>
+            <text>12</text>
             </RehearsalMark>
           <Rest>
             <eid>602618271367193</eid>
@@ -426,7 +425,7 @@
             <eid>439147521114166</eid>
             <linked>
               </linked>
-            <text>B</text>
+            <text>20</text>
             </RehearsalMark>
           <Rest>
             <eid>602661221040153</eid>
@@ -586,7 +585,7 @@
             <eid>440113888755766</eid>
             <linked>
               </linked>
-            <text>C</text>
+            <text>34</text>
             </RehearsalMark>
           <Rest>
             <eid>602729940516889</eid>
@@ -658,7 +657,7 @@
             <eid>440285687447606</eid>
             <linked>
               </linked>
-            <text>E</text>
+            <text>40</text>
             </RehearsalMark>
           <Rest>
             <eid>602764300255257</eid>
@@ -752,7 +751,7 @@
             <eid>440977177182262</eid>
             <linked>
               </linked>
-            <text>F</text>
+            <text>48</text>
             </RehearsalMark>
           <Rest>
             <eid>440981472149529</eid>
@@ -878,7 +877,7 @@
             <eid>441045896658998</eid>
             <linked>
               </linked>
-            <text>G</text>
+            <text>57</text>
             </RehearsalMark>
           <Rest>
             <eid>441050191626265</eid>
@@ -914,7 +913,7 @@
             <linked>
               <indexDiff>-4</indexDiff>
               </linked>
-            <text>G</text>
+            <text>57</text>
             </RehearsalMark>
           <Rest>
             <eid>441067371495450</eid>
@@ -1039,7 +1038,7 @@
             <eid>441114616135734</eid>
             <linked>
               </linked>
-            <text>H</text>
+            <text>68</text>
             </RehearsalMark>
           <Rest>
             <eid>441118911103001</eid>
@@ -1058,7 +1057,7 @@
             <linked>
               <indexDiff>-2</indexDiff>
               </linked>
-            <text>H</text>
+            <text>68</text>
             </RehearsalMark>
           <Rest>
             <eid>441127501037594</eid>
@@ -1183,7 +1182,7 @@
             <eid>441174745677878</eid>
             <linked>
               </linked>
-            <text>I</text>
+            <text>79</text>
             </RehearsalMark>
           <Rest>
             <eid>441179040645145</eid>
@@ -1202,7 +1201,7 @@
             <linked>
               <indexDiff>-2</indexDiff>
               </linked>
-            <text>I</text>
+            <text>79</text>
             </RehearsalMark>
           <Rest>
             <eid>441187630579738</eid>
@@ -1327,7 +1326,7 @@
             <eid>441234875220022</eid>
             <linked>
               </linked>
-            <text>J</text>
+            <text>90</text>
             </RehearsalMark>
           <Rest>
             <eid>441239170187289</eid>
@@ -1346,7 +1345,7 @@
             <linked>
               <indexDiff>-2</indexDiff>
               </linked>
-            <text>J</text>
+            <text>90</text>
             </RehearsalMark>
           <Rest>
             <eid>441247760121882</eid>
@@ -1463,6 +1462,7 @@
           </voice>
         </Measure>
       <Measure>
+        <noOffset>98</noOffset>
         <voice>
           <KeySig>
             <eid>441303594696726</eid>
@@ -1574,7 +1574,7 @@
             <eid>597541620023350</eid>
             <linked>
               </linked>
-            <text>7</text>
+            <text>105</text>
             </RehearsalMark>
           <Rest>
             <eid>441350839336985</eid>
@@ -1593,7 +1593,7 @@
             <linked>
               <indexDiff>-2</indexDiff>
               </linked>
-            <text>7</text>
+            <text>105</text>
             </RehearsalMark>
           <Rest>
             <eid>597550209957914</eid>
@@ -1750,7 +1750,7 @@
             <eid>597554504925238</eid>
             <linked>
               </linked>
-            <text>20</text>
+            <text>118</text>
             </RehearsalMark>
           <Chord>
             <eid>441406673911923</eid>
@@ -2890,7 +2890,7 @@
             <eid>597558799892534</eid>
             <linked>
               </linked>
-            <text>34</text>
+            <text>132</text>
             </RehearsalMark>
           <Rest>
             <eid>442136818352153</eid>
@@ -2909,7 +2909,7 @@
             <linked>
               <indexDiff>-2</indexDiff>
               </linked>
-            <text>34</text>
+            <text>132</text>
             </RehearsalMark>
           <Rest>
             <eid>442141113319450</eid>
@@ -3294,7 +3294,7 @@
             <eid>597567389827126</eid>
             <linked>
               </linked>
-            <text>46</text>
+            <text>144</text>
             </RehearsalMark>
           <Chord>
             <eid>442355861684339</eid>
@@ -5561,7 +5561,7 @@
             <eid>597571684794422</eid>
             <linked>
               </linked>
-            <text>56</text>
+            <text>154</text>
             </RehearsalMark>
           <Rest>
             <eid>443601402200089</eid>
@@ -5597,7 +5597,7 @@
             <linked>
               <indexDiff>-4</indexDiff>
               </linked>
-            <text>56</text>
+            <text>154</text>
             </RehearsalMark>
           <Rest>
             <eid>443614287101978</eid>
@@ -5809,7 +5809,7 @@
             <eid>597580274729014</eid>
             <linked>
               </linked>
-            <text>69</text>
+            <text>167</text>
             </RehearsalMark>
           <Rest>
             <eid>443708776382489</eid>
@@ -5852,7 +5852,7 @@
             <linked>
               <indexDiff>-5</indexDiff>
               </linked>
-            <text>69</text>
+            <text>167</text>
             </RehearsalMark>
           <Rest>
             <eid>443725956251674</eid>
@@ -6007,7 +6007,7 @@
             <eid>597588864663606</eid>
             <linked>
               </linked>
-            <text>82</text>
+            <text>180</text>
             </RehearsalMark>
           <Rest>
             <eid>443794675728409</eid>
@@ -6026,7 +6026,7 @@
             <linked>
               <indexDiff>-2</indexDiff>
               </linked>
-            <text>82</text>
+            <text>180</text>
             </RehearsalMark>
           <Rest>
             <eid>597597454598170</eid>
