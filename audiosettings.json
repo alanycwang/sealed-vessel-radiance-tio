@@ -51,25 +51,25 @@
             "in": {
                 "resourceMeta": {
                     "attributes": {
-                        "museCategory": "Muse Brass",
-                        "museName": "Trumpets",
-                        "museUID": "109",
-                        "playbackSetupData": "winds.trumpet.section"
+                        "museCategory": "Muse Woodwinds",
+                        "museName": "Tenor Sax",
+                        "museUID": "131",
+                        "playbackSetupData": "winds.saxophone.tenor"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "Muse Brass\\Trumpets\\109",
+                    "id": "Muse Woodwinds\\Tenor Sax\\131",
                     "type": "muse_sampler_sound_pack",
-                    "vendor": "Muse Brass"
+                    "vendor": "Muse Woodwinds"
                 },
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "bb-trumpet",
+            "instrumentId": "tenor-saxophone",
             "out": {
                 "auxSends": [
                     {
                         "active": true,
-                        "signalAmount": 0.4000000059604645
+                        "signalAmount": 0.20000000298023224
                     },
                     {
                         "active": true,
@@ -79,9 +79,9 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": -3.299999952316284
+                "volumeDb": -6.900000095367432
             },
-            "partId": "10",
+            "partId": "6",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
@@ -163,25 +163,25 @@
             "in": {
                 "resourceMeta": {
                     "attributes": {
-                        "museCategory": "Muse Woodwinds",
-                        "museName": "Tenor Sax",
-                        "museUID": "131",
-                        "playbackSetupData": "winds.saxophone.tenor"
+                        "museCategory": "Muse Brass",
+                        "museName": "Trumpets",
+                        "museUID": "109",
+                        "playbackSetupData": "winds.trumpet.section"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "Muse Woodwinds\\Tenor Sax\\131",
+                    "id": "Muse Brass\\Trumpets\\109",
                     "type": "muse_sampler_sound_pack",
-                    "vendor": "Muse Woodwinds"
+                    "vendor": "Muse Brass"
                 },
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "tenor-saxophone",
+            "instrumentId": "bb-trumpet",
             "out": {
                 "auxSends": [
                     {
                         "active": true,
-                        "signalAmount": 0.20000000298023224
+                        "signalAmount": 0.4000000059604645
                     },
                     {
                         "active": true,
@@ -191,49 +191,9 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": -6.900000095367432
+                "volumeDb": -3.299999952316284
             },
-            "partId": "6",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                        "museCategory": "Muse Woodwinds",
-                        "museName": "Alto Sax",
-                        "museUID": "130",
-                        "playbackSetupData": "winds.saxophone.alto"
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "Muse Woodwinds\\Alto Sax\\130",
-                    "type": "muse_sampler_sound_pack",
-                    "vendor": "Muse Woodwinds"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "alto-saxophone",
-            "out": {
-                "auxSends": [
-                    {
-                        "active": true,
-                        "signalAmount": 0.20000000298023224
-                    },
-                    {
-                        "active": true,
-                        "signalAmount": 0.30000001192092896
-                    }
-                ],
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": -8
-            },
-            "partId": "5",
+            "partId": "10",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
@@ -324,24 +284,24 @@
                 "resourceMeta": {
                     "attributes": {
                         "museCategory": "Muse Woodwinds",
-                        "museName": "Piccolo",
-                        "museUID": "120",
-                        "playbackSetupData": "winds.piccolo"
+                        "museName": "Alto Sax",
+                        "museUID": "130",
+                        "playbackSetupData": "winds.saxophone.alto"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "Muse Woodwinds\\Piccolo\\120",
+                    "id": "Muse Woodwinds\\Alto Sax\\130",
                     "type": "muse_sampler_sound_pack",
                     "vendor": "Muse Woodwinds"
                 },
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "piccolo",
+            "instrumentId": "alto-saxophone",
             "out": {
                 "auxSends": [
                     {
                         "active": true,
-                        "signalAmount": 0.5
+                        "signalAmount": 0.20000000298023224
                     },
                     {
                         "active": true,
@@ -351,9 +311,9 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": -4
+                "volumeDb": -8
             },
-            "partId": "1",
+            "partId": "5",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
@@ -394,6 +354,46 @@
                 "volumeDb": -5.300000190734863
             },
             "partId": "9",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "museCategory": "Muse Woodwinds",
+                        "museName": "Piccolo",
+                        "museUID": "120",
+                        "playbackSetupData": "winds.piccolo"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "Muse Woodwinds\\Piccolo\\120",
+                    "type": "muse_sampler_sound_pack",
+                    "vendor": "Muse Woodwinds"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "piccolo",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.5
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": -4
+            },
+            "partId": "1",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
@@ -523,6 +523,42 @@
             "in": {
                 "resourceMeta": {
                     "attributes": {
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "euphonium",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": -5.300000190734863
+            },
+            "partId": "8",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
                         "playbackSetupData": "last.last.last",
                         "soundFontName": "MS Basic"
                     },
@@ -552,42 +588,6 @@
                 "volumeDb": -10
             },
             "partId": "34",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
-                    "type": "fluid_soundfont",
-                    "vendor": "Fluid"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "euphonium",
-            "out": {
-                "auxSends": [
-                    {
-                        "active": true,
-                        "signalAmount": 0.30000001192092896
-                    },
-                    {
-                        "active": true,
-                        "signalAmount": 0.30000001192092896
-                    }
-                ],
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": -5.300000190734863
-            },
-            "partId": "8",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
@@ -957,25 +957,25 @@
             "in": {
                 "resourceMeta": {
                     "attributes": {
-                        "museCategory": "Muse Strings",
-                        "museName": "Violins 1",
-                        "museUID": "91",
-                        "playbackSetupData": "strings.violin.orchestral:primary:section"
+                        "museCategory": "Muse Brass",
+                        "museName": "Tuba",
+                        "museUID": "115",
+                        "playbackSetupData": "winds.tuba"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "Muse Strings\\Violins 1\\91",
+                    "id": "Muse Brass\\Tuba\\115",
                     "type": "muse_sampler_sound_pack",
-                    "vendor": "Muse Strings"
+                    "vendor": "Muse Brass"
                 },
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "violins",
+            "instrumentId": "tuba",
             "out": {
                 "auxSends": [
                     {
                         "active": true,
-                        "signalAmount": 0.30000001192092896
+                        "signalAmount": 0.4000000059604645
                     },
                     {
                         "active": true,
@@ -985,9 +985,9 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": -0.699999988079071
+                "volumeDb": 0
             },
-            "partId": "20",
+            "partId": "32",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
@@ -1037,25 +1037,25 @@
             "in": {
                 "resourceMeta": {
                     "attributes": {
-                        "museCategory": "Muse Brass",
-                        "museName": "Tuba",
-                        "museUID": "115",
-                        "playbackSetupData": "winds.tuba"
+                        "museCategory": "Muse Strings",
+                        "museName": "Violins 1",
+                        "museUID": "91",
+                        "playbackSetupData": "strings.violin.orchestral:primary:section"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "Muse Brass\\Tuba\\115",
+                    "id": "Muse Strings\\Violins 1\\91",
                     "type": "muse_sampler_sound_pack",
-                    "vendor": "Muse Brass"
+                    "vendor": "Muse Strings"
                 },
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "tuba",
+            "instrumentId": "violins",
             "out": {
                 "auxSends": [
                     {
                         "active": true,
-                        "signalAmount": 0.4000000059604645
+                        "signalAmount": 0.30000001192092896
                     },
                     {
                         "active": true,
@@ -1065,9 +1065,9 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 0
+                "volumeDb": -0.699999988079071
             },
-            "partId": "32",
+            "partId": "20",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
@@ -1094,46 +1094,6 @@
                 "volumeDb": 0
             },
             "partId": "999",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                        "museCategory": "Muse Woodwinds",
-                        "museName": "Flute 1",
-                        "museUID": "118",
-                        "playbackSetupData": "winds.flute.primary"
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "Muse Woodwinds\\Flute 1\\118",
-                    "type": "muse_sampler_sound_pack",
-                    "vendor": "Muse Woodwinds"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "flute",
-            "out": {
-                "auxSends": [
-                    {
-                        "active": true,
-                        "signalAmount": 0.4000000059604645
-                    },
-                    {
-                        "active": true,
-                        "signalAmount": 0.30000001192092896
-                    }
-                ],
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": -4
-            },
-            "partId": "2",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
@@ -1174,6 +1134,46 @@
                 "volumeDb": 12
             },
             "partId": "18",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "museCategory": "Muse Woodwinds",
+                        "museName": "Flute 1",
+                        "museUID": "118",
+                        "playbackSetupData": "winds.flute.primary"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "Muse Woodwinds\\Flute 1\\118",
+                    "type": "muse_sampler_sound_pack",
+                    "vendor": "Muse Woodwinds"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "flute",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.4000000059604645
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": -4
+            },
+            "partId": "2",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
@@ -1411,7 +1411,11 @@
                 },
                 "volumeDb": 0
             },
-            "partId": "37"
+            "partId": "37",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
         }
     ]
 }
