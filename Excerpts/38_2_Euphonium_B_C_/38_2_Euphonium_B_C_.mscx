@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<museScore version="4.20">
+  <programVersion>4.2.0</programVersion>
+  <programRevision>eb8d33c</programRevision>
+  <LastEID>155725</LastEID>
+  <Score>
+    <name>2_Euphonium_B.C.</name>
+    <Division>480</Division>
+    <Style>
+      <defaultsVersion>400</defaultsVersion>
+      <Spatium>1.74978</Spatium>
+      </Style>
+    <showInvisible>1</showInvisible>
+    <showUnprintable>1</showUnprintable>
+    <showFrames>1</showFrames>
+    <showMargins>0</showMargins>
+    </Score>
+  </museScore>
