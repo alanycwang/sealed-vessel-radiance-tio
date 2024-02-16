@@ -2,7 +2,7 @@
 <museScore version="4.20">
   <programVersion>4.2.1</programVersion>
   <programRevision>d757433</programRevision>
-  <LastEID>158474</LastEID>
+  <LastEID>158565</LastEID>
   <Score>
     <name>Percussion</name>
     <Division>480</Division>
@@ -34515,7 +34515,7 @@
                 </linked>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
-                <eid>674275505733649</eid>
+                <eid>680915525173265</eid>
                 </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
@@ -34598,7 +34598,7 @@
                 </linked>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
-                <eid>674327045341201</eid>
+                <eid>680919820140561</eid>
                 </Accidental>
               <pitch>61</pitch>
               <tpc>21</tpc>
@@ -34647,7 +34647,7 @@
                 </linked>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
-                <eid>674357110112273</eid>
+                <eid>680924115107857</eid>
                 </Accidental>
               <pitch>61</pitch>
               <tpc>21</tpc>
@@ -34735,7 +34735,7 @@
                 </linked>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
-                <eid>674412944687121</eid>
+                <eid>680928410075153</eid>
                 </Accidental>
               <pitch>61</pitch>
               <tpc>21</tpc>
@@ -34888,7 +34888,7 @@
                 </linked>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
-                <eid>674507433967633</eid>
+                <eid>680932705042449</eid>
                 </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
@@ -34899,7 +34899,7 @@
                 </linked>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
-                <eid>674516023902225</eid>
+                <eid>680937000009745</eid>
                 </Accidental>
               <pitch>68</pitch>
               <tpc>22</tpc>
@@ -34948,7 +34948,7 @@
                 </linked>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
-                <eid>674546088673297</eid>
+                <eid>680941294977041</eid>
                 </Accidental>
               <pitch>68</pitch>
               <tpc>22</tpc>
@@ -35009,7 +35009,7 @@
                 </linked>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
-                <eid>674584743378961</eid>
+                <eid>680945589944337</eid>
                 </Accidental>
               <pitch>66</pitch>
               <tpc>20</tpc>
@@ -35040,7 +35040,7 @@
                 </linked>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
-                <eid>674606218215441</eid>
+                <eid>680949884911633</eid>
                 </Accidental>
               <pitch>68</pitch>
               <tpc>22</tpc>
@@ -35193,7 +35193,7 @@
                 </linked>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
-                <eid>674700707495953</eid>
+                <eid>680954179878929</eid>
                 </Accidental>
               <pitch>61</pitch>
               <tpc>21</tpc>
@@ -35204,7 +35204,7 @@
                 </linked>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
-                <eid>674709297430545</eid>
+                <eid>680958474846225</eid>
                 </Accidental>
               <pitch>73</pitch>
               <tpc>21</tpc>
@@ -35253,7 +35253,7 @@
                 </linked>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
-                <eid>674739362201617</eid>
+                <eid>680962769813521</eid>
                 </Accidental>
               <pitch>73</pitch>
               <tpc>21</tpc>
@@ -35341,7 +35341,7 @@
                 </linked>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
-                <eid>674795196776465</eid>
+                <eid>680967064780817</eid>
                 </Accidental>
               <pitch>73</pitch>
               <tpc>21</tpc>
@@ -35500,11 +35500,11 @@
               <linked>
                 </linked>
               <Accidental>
-                <subtype>accidentalFlat</subtype>
-                <eid>674893981024273</eid>
+                <subtype>accidentalSharp</subtype>
+                <eid>680971359748113</eid>
                 </Accidental>
               <pitch>73</pitch>
-              <tpc>9</tpc>
+              <tpc>21</tpc>
               </Note>
             </Chord>
           <endTuplet/>

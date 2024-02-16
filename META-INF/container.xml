@@ -47,8 +47,8 @@
     <rootfile full-path="Excerpts/20_Keyboards/20_Keyboards.mscx"/>
     <rootfile full-path="Excerpts/21_Percussion/21_Percussion.mss"/>
     <rootfile full-path="Excerpts/21_Percussion/21_Percussion.mscx"/>
-    <rootfile full-path="Excerpts/22_Euphonium_B.C./22_Euphonium_B.C..mss"/>
-    <rootfile full-path="Excerpts/22_Euphonium_B.C./22_Euphonium_B.C..mscx"/>
+    <rootfile full-path="Excerpts/22_Euphonium_T.C./22_Euphonium_T.C..mss"/>
+    <rootfile full-path="Excerpts/22_Euphonium_T.C./22_Euphonium_T.C..mscx"/>
     <rootfile full-path="Excerpts/23_SATB/23_SATB.mss"/>
     <rootfile full-path="Excerpts/23_SATB/23_SATB.mscx"/>
     <rootfile full-path="Excerpts/24_Strings/24_Strings.mss"/>
@@ -69,8 +69,8 @@
     <rootfile full-path="Excerpts/31_Horn_in_F/31_Horn_in_F.mscx"/>
     <rootfile full-path="Excerpts/32_Trumpet_in_Bb/32_Trumpet_in_Bb.mss"/>
     <rootfile full-path="Excerpts/32_Trumpet_in_Bb/32_Trumpet_in_Bb.mscx"/>
-    <rootfile full-path="Excerpts/33_Euphonium_T.C./33_Euphonium_T.C..mss"/>
-    <rootfile full-path="Excerpts/33_Euphonium_T.C./33_Euphonium_T.C..mscx"/>
+    <rootfile full-path="Excerpts/33_Euphonium_B.C./33_Euphonium_B.C..mss"/>
+    <rootfile full-path="Excerpts/33_Euphonium_B.C./33_Euphonium_B.C..mscx"/>
     <rootfile full-path="Excerpts/34_Tuba/34_Tuba.mss"/>
     <rootfile full-path="Excerpts/34_Tuba/34_Tuba.mscx"/>
     <rootfile full-path="Excerpts/35_Timpani/35_Timpani.mss"/>
@@ -108,7 +108,7 @@
     <rootfile full-path="Excerpts/19_Brass/viewsettings.json"/>
     <rootfile full-path="Excerpts/20_Keyboards/viewsettings.json"/>
     <rootfile full-path="Excerpts/21_Percussion/viewsettings.json"/>
-    <rootfile full-path="Excerpts/22_Euphonium_B.C./viewsettings.json"/>
+    <rootfile full-path="Excerpts/22_Euphonium_T.C./viewsettings.json"/>
     <rootfile full-path="Excerpts/23_SATB/viewsettings.json"/>
     <rootfile full-path="Excerpts/24_Strings/viewsettings.json"/>
     <rootfile full-path="Excerpts/25_Winds/viewsettings.json"/>
@@ -119,7 +119,7 @@
     <rootfile full-path="Excerpts/30_Tenor_Saxophone/viewsettings.json"/>
     <rootfile full-path="Excerpts/31_Horn_in_F/viewsettings.json"/>
     <rootfile full-path="Excerpts/32_Trumpet_in_Bb/viewsettings.json"/>
-    <rootfile full-path="Excerpts/33_Euphonium_T.C./viewsettings.json"/>
+    <rootfile full-path="Excerpts/33_Euphonium_B.C./viewsettings.json"/>
     <rootfile full-path="Excerpts/34_Tuba/viewsettings.json"/>
     <rootfile full-path="Excerpts/35_Timpani/viewsettings.json"/>
     <rootfile full-path="Excerpts/36_Marimba/viewsettings.json"/>
