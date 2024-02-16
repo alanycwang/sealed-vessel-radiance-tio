@@ -2,7 +2,7 @@
 <museScore version="4.20">
   <programVersion>4.2.1</programVersion>
   <programRevision>d757433</programRevision>
-  <LastEID>158001</LastEID>
+  <LastEID>158435</LastEID>
   <Score>
     <name>Piccolo</name>
     <initialPartId>1</initialPartId>
@@ -1797,9 +1797,9 @@
             <text>112</text>
             </RehearsalMark>
           <Dynamic>
-            <subtype>f</subtype>
-            <velocity>96</velocity>
-            <eid>647139902357539</eid>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
+            <eid>678987084857379</eid>
             <linked>
               </linked>
             </Dynamic>
@@ -2091,6 +2091,19 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <eid>678991379824734</eid>
+              <linked>
+                </linked>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <eid>647298816147571</eid>
             <linked>
@@ -2138,6 +2151,20 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
+            <eid>678995674791971</eid>
+            <linked>
+              </linked>
+            </Dynamic>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <eid>647328880918643</eid>
             <linked>
@@ -2422,6 +2449,19 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <eid>678999969759326</eid>
+              <linked>
+                </linked>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <eid>647500679610483</eid>
             <linked>
@@ -2485,6 +2525,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <eid>647543629283443</eid>
             <linked>
@@ -2737,6 +2784,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            <eid>679927682695203</eid>
+            <linked>
+              </linked>
+            </Dynamic>
           <Chord>
             <eid>647702543073395</eid>
             <linked>
@@ -3084,6 +3138,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>ff</subtype>
+            <velocity>112</velocity>
+            <eid>680477438509091</eid>
+            <linked>
+              </linked>
+            </Dynamic>
           <Chord>
             <eid>647891521634419</eid>
             <linked>
@@ -12168,6 +12229,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
+            <eid>679004264726563</eid>
+            <linked>
+              </linked>
+            </Dynamic>
           <Chord>
             <eid>653135676702835</eid>
             <linked>
@@ -12456,6 +12524,19 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <eid>679008559693918</eid>
+              <linked>
+                </linked>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <eid>653290295525491</eid>
             <linked>
@@ -12503,6 +12584,20 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
+            <eid>679012854661155</eid>
+            <linked>
+              </linked>
+            </Dynamic>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <eid>653320360296563</eid>
             <linked>
@@ -12791,6 +12886,19 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <eid>679017149628510</eid>
+              <linked>
+                </linked>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <eid>653496453955699</eid>
             <linked>
@@ -12854,6 +12962,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <eid>653539403628659</eid>
             <linked>
@@ -12910,6 +13025,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
+            <eid>679931977662499</eid>
+            <linked>
+              </linked>
+            </Dynamic>
           <Chord>
             <eid>653573763367027</eid>
             <linked>
@@ -13350,6 +13472,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            <eid>679936272629795</eid>
+            <linked>
+              </linked>
+            </Dynamic>
           <Chord>
             <eid>653840051339379</eid>
             <linked>
@@ -13692,6 +13821,26 @@
               </linked>
             <durationType>quarter</durationType>
             </Rest>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              <eid>679940567597150</eid>
+              <linked>
+                </linked>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="0.870967"/>
+                <off2 x="-0.278641" y="0"/>
+                <eid>679944862564416</eid>
+                </Segment>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                <fractions>-1/4</fractions>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <eid>654029029900403</eid>
             <linked>
@@ -13871,6 +14020,21 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>ff</subtype>
+            <velocity>112</velocity>
+            <eid>680481733476387</eid>
+            <linked>
+              </linked>
+            </Dynamic>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                <fractions>1/4</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <eid>654149288984691</eid>
             <linked>
